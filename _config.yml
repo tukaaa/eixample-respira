@@ -8,7 +8,8 @@ favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: ''
 email: 'eixample-respira@gmail.com'
-google_analytics: 'UA-46278016-1'
+image: 'assets/images/eixample-respira.jpg'
+google_analytics: 'UA-141267399-1'
 
 # Authors
 authors:
@@ -48,3 +49,9 @@ jekyll-archives:
 # Other
 markdown: kramdown
 highlighter: rouge
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/eixample-respira.jpg
