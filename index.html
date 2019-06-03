@@ -7,82 +7,8 @@ title: Home
 ================================================== -->    
 <section class="intro full-width">
     <div class="wrapintro">
-        <h1>Jekyll Theme for Marketers</h1>
-        <h2 class="lead">"Affiliates" is a Jekyll theme designed & developed by WowThemesNet, best suitable for affiliate marketing.</h2>    
-        <a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" class="btn">Download</a>
+        <h1>Volem un Eixample<br>sense contaminació!</h1>
+        <h2 class="lead">Eixample Respira neix com a plataforma veïnal, apartidista, del districte de l'Eixample de Barcelona on els veïns compartim una gran preocupació per la mala qualitat de l'aire que respirem. El nostre objectiu és aconseguir que es visualitzi la problemàtica de la contaminació i que l'administració pública (Ajuntament de Barcelona, Generalitat de Catalunya i Govern de l'Estat Espanyol) ens doni una solució urgent al problema de salut que tots estem patint tot respirant cada dia un aire contaminat.</h2>
+        <a href="{{ site.baseurl }}/manifest" class="btn">Llegir manifest</a>
     </div>
-</section>
-
-
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-
-    <div class="section-title">
-        <h2><span>Featured</span></h2>
-    </div>
-
-    <div class="row listfeaturedtag">
-
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
-    </div>
-
-</section>
-
-<!-- Posts Index
-================================================== -->
-{% if paginator.previous_page %}
-{% if paginator.previous_page > 0 %}
-<div id="jumptopageof"></div>
-{% endif %}
-{% endif %}    
-
-<section class="recent-posts row">
-
-    <div class="col-sm-4">
-        {% include sidebar.html %}
-    </div>
-
-    <div class="col-sm-8">
-
-        <div class="section-title">
-            <h2><span>All Stories</span></h2>    
-        </div>
-
-        <div class="masonrygrid row listrecent">
-
-            {% for post in paginator.posts %}
-
-            {% unless post.featured == true %}
-
-                {% include postbox.html %}
-
-            {% endunless %}
-
-            {% endfor %}
-
-        </div> 
-
-        <!-- Pagination -->
-        <div class="bottompagination">
-
-            <span class="navigation" role="navigation">
-
-                {% include pagination.html %}
-
-            </span>
-
-        </div>
-
-    </div>
-
 </section>
