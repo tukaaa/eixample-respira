@@ -4,7 +4,7 @@ title: Manifest
 comments: false
 ---
 
-Som una plataforma veïnal, apolítica, del districte de l'Eixample de Barcelona que compartim una gran preocupació per la qualitat de l'aire que respirem diàriament.
+Som una plataforma veïnal, apartidista, del districte de l'Eixample de Barcelona que compartim una gran preocupació per la qualitat de l'aire que respirem diàriament.
 
 Al nostre districte des de l'any 2010 s'incompleix de forma sistemàtica amb els nivells legals de diòxid de nitrogen (NO²), i patim a diari una qualitat de l'aire molt per sobre dels nivells màxims exigits per l'Organització Mundial per la Salut.
 
