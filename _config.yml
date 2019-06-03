@@ -1,8 +1,8 @@
 # Site
 name: "Eixample Respira"
 title: "Eixample Respira"
-description: "Som una plataforma veïnal, apartidista, del districte de l'Eixample de Barcelona que compartim una gran preocupació per la qualitat de l'aire que respirem. 🚗💨😷"
-meta_description: "Som una plataforma veïnal, apartidista, del districte de l'Eixample de Barcelona que compartim una gran preocupació per la qualitat de l'aire que respirem. 🚗💨😷"
+description: "Som una plataforma veïnal de l'Eixample de lluita contra la contaminació. 🚗💨😷"
+meta_description: "Som una plataforma veïnal de l'Eixample de lluita contra la contaminació. 🚗💨😷"
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
