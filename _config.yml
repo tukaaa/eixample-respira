@@ -6,7 +6,7 @@ meta_description: "Som una plataforma veïnal, apartidista, del districte de l'E
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/'
+baseurl: ''
 email: 'eixample-respira@gmail.com'
 google_analytics: 'UA-46278016-1'
 
