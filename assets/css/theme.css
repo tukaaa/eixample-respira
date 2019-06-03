@@ -399,11 +399,31 @@ span.post-name a,span.post-read-more a:hover {
 }
 .beforefooter {
     background: #fff100;
+    background: #fff;
     color: #111;
     padding: 50px 0;
     max-width: 100%;
     margin: 0px auto;
-    margin-bottom: -50px; margin-top:50px;
+    /*margin-bottom: -50px; margin-top:50px;*/
+}
+.beforefooter .btn {
+  text-decoration: none;
+  margin: 0.5em 1rem;
+  font-weight: 500;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.94em;   
+  background: #6FD350;
+  color: #fff;
+  border-radius: 4px;
+  box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
+  padding-left: 1em;
+  padding-right: 1em;
+}
+.beforefooter .btn.twitter {
+  background: #55acee;
+  color: #fff;
 }
 .footer a {color:inherit;}
 .footer a:hover {color:#fff; text-decoration:none;}
