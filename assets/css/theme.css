@@ -334,7 +334,7 @@ span.post-name a,span.post-read-more a:hover {
 .intro {
     background-image:url(../images/head.jpg);
     background-size:cover;
-    padding: 5rem 0;
+    padding: 5rem 0 4rem;
     margin-top:-87px;
     margin-bottom:3.5rem;
     z-index: 1;
@@ -368,13 +368,36 @@ span.post-name a,span.post-read-more a:hover {
     font-weight: normal;
 }
 .wrapintro {
-    background: #fff;
-    width: 700px;
-    padding: 3rem;
-    max-width: 90%;
+    background: #000;
+    max-width: 500px;
+    padding: 1rem;
     margin: 0px auto;
     text-align: center;
+    border-radius: 5px;
+    overflow: hidden;
 }
+
+.banner {
+    background: #fff100;
+    color: #111;
+    padding: 30px 0px 20px;
+    max-width: 620px;
+    margin: -20px auto 40px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.banner .container {
+}
+
+.banner .container p {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.banner .container p:last-child {
+    margin-bottom: 0;
+}
+
 .footer {
 	border-top:1px solid rgba(0,0,0,.05)!important;
 	color:#999;
@@ -399,7 +422,6 @@ span.post-name a,span.post-read-more a:hover {
     margin-top: 10px;
 }
 .beforefooter {
-    background: #fff100;
     background: #fff;
     color: #111;
     padding: 50px 0;
@@ -878,8 +900,14 @@ iframe {
         margin-left: 0;
         margin-top: 10px;
     }
-    .intro {padding:4rem 0;}
-    .wrapintro {padding: 2rem 1rem;}
+    .intro {
+        padding: 64px 0 30px;
+        margin-bottom: 2rem;
+    }
+    .wrapintro {
+        padding: 1rem;
+        margin: 0 2rem;
+    }
 }
 @media (max-width: 575px) {
     .intro h1 {font-size: 1.9rem;}
