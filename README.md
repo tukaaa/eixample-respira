@@ -4,3 +4,6 @@ Som una plataforma veïnal, apartidista, del districte de l'Eixample de Barcelon
 
 ## Run the project in local
 ```bundle exec jekyll serve```
+
+## Run the project in docker
+```docker-compose up --build```
