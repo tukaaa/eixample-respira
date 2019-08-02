@@ -966,7 +966,9 @@ img.flyer {
 }
 
 ul.timeline {
-    border-left: 4px solid black;
+    border-left: 5px dotted black;
+    border-spacing: 30px;
+    padding-left: 26px;
 }
 ul.timeline > li {
     margin-bottom: 20px;
