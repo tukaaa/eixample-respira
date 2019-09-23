@@ -977,3 +977,9 @@ ul.timeline {
 ul.timeline > li {
     margin-bottom: 20px;
 }
+
+.entitats img {
+    max-width: 160px;
+    padding: 10px;
+    display: inline-block;
+}
