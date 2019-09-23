@@ -403,6 +403,11 @@ span.post-name a,span.post-read-more a:hover {
     margin-bottom: 0;
 }
 
+.banner .btn {
+    background: black;
+    color: white;
+}
+
 .footer {
 	border-top:1px solid rgba(0,0,0,.05)!important;
 	color:#999;
