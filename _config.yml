@@ -10,7 +10,7 @@ baseurl: ''
 email: 'eixample-respira@gmail.com'
 image: 'assets/images/eixample-respira.jpg'
 google_analytics: 'UA-141267399-1'
-cache: 15
+cache: 16
 
 # Authors
 authors:
