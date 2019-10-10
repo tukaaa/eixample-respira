@@ -375,6 +375,9 @@ span.post-name a,span.post-read-more a:hover {
     margin-bottom: 0;
     font-weight: normal;
 }
+.lead {
+    color: #ababab;
+}
 .wrapintro {
     background: #000;
     max-width: 500px;
