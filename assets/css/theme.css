@@ -16,7 +16,7 @@ a {
 	color:#6FD350;
 }
 a,a:hover {
-	transition:all 0.2s;
+    color:#6FD350;
 }
 pre {
     -moz-box-sizing: border-box;
