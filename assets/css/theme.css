@@ -141,6 +141,11 @@ section.recent-posts {
     color: #fff;
 }
 
+.navbar-toggleable-md .navbar-nav .nav-link.highlight.blog {
+    background: rgba(0,0,0,.84);
+    color: #fff;
+}
+
 .navbar-toggler {
     z-index:9999;
 }
