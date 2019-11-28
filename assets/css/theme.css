@@ -991,6 +991,10 @@ ul.timeline > li {
     margin-bottom: 20px;
 }
 
+ul.timeline > li > a {
+    display: inline-block;
+}
+
 .entitats img {
     max-width: 160px;
     padding: 10px;
