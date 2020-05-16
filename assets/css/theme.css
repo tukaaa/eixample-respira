@@ -141,6 +141,11 @@ section.recent-posts {
     color: #fff;
 }
 
+.navbar-toggleable-md .navbar-nav .nav-link.highlight.youtube {
+    background: #ff0000;
+    color: #fff;
+}
+
 .navbar-toggleable-md .navbar-nav .nav-link.highlight.blog {
     background: rgba(0,0,0,.84);
     color: #fff;
@@ -151,12 +156,12 @@ section.recent-posts {
 }
 
 .navbar-toggleable-md .navbar-nav .nav-link {
-    margin-left: 1rem;
+    margin-left: 0.30rem;
     font-weight: 500;
     color: #333;
     text-transform: uppercase;
     letter-spacing: 1px;
-    font-size: 0.94em;
+    font-size: 0.85em;
 }
 .mediumnavigation .dropdown-menu {
         margin:0 0 15px 0;
@@ -935,7 +940,7 @@ iframe {
     }
     .wrapintro {
         padding: 1rem;
-        margin: 0 2rem;
+        margin: 0 auto;
     }
     .banner {
         border-radius: 20px;
