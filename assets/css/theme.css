@@ -388,9 +388,18 @@ span.post-name a,span.post-read-more a:hover {
 .lead {
     color: #ababab;
 }
+
+.intro .container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 900px;
+}
+
 .wrapintro {
     background: #FFF;
-    max-width: 500px;
+    max-width: 400px;
     padding: 10px;
     margin: 0px auto;
     text-align: center;
@@ -940,7 +949,10 @@ iframe {
     }
     .wrapintro {
         padding: 1rem;
-        margin: 0 auto;
+        margin: 0 auto 20px;
+    }
+    .wrapintro:last-child {
+        margin-bottom: 0;
     }
     .banner {
         border-radius: 20px;
@@ -994,6 +1006,9 @@ ul.timeline {
 }
 ul.timeline > li {
     margin-bottom: 20px;
+}
+ul.timeline > li li {
+    margin-top: 10px;
 }
 
 ul.timeline > li > a {
