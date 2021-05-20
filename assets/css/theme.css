@@ -127,7 +127,10 @@ section.recent-posts {
     padding-right: 1em;
     
 }
-
+.navbar-toggleable-md .navbar-nav .nav-link.highlight.telegram {
+    background: #27a9e9;
+    color: #fff;
+}
 .navbar-toggleable-md .navbar-nav .nav-link.highlight.twitter {
     background: #55acee;
     color: #fff;
