@@ -21,20 +21,21 @@ Coches y motos, no obstante representen solo el 24% de desplazamientos dentro de
 
 L'Eixample es el distrito más poblado de Barcelona, con una densidad de las más elevadas de Europa: 356,3 hab/ha. Al distrito hay 53 guarderías, 47 escuelas infantiles y de primária, 32 centros de educación secundaria, bachillerato y FP y 1 escuela de educación especial. 
 
-Segons l’informe de salut de l’Agència de Salut Pública de Barcelona, al districte la causa principal de mort en els homes és el càncer de pulmó, la malaltia isquèmica del cor (inclou angina de pit i infart cardíac) i la malaltia cerebrovascular (inclou ictus), i en les dones el càncer de mama, el càncer de pulmó, la demència senil i l’Alzheimer.
+Según el informe de salud de l'Agencia de Salud Pública de Barcelona, al Distrito la causa principal de muerte en los hombres es el cancer de pulmón, la enfermedad isquémica del corazón (incluído la angina de pecho y el infarto cardíaco) y la enfermedad cerebrovascular (incluido el ictus); en las mujeres, el cancer de mamá, el cancer de pulmón, la demencia senil y la enfermedad de Alzheimer. 
 
-Segons el Doctor Jordi Sunyer, investigador de l’Institut de Salut Global de Barcelona:
+
+Según el Doctor Jordi Sunyer, investigador de l'Instituto de Salud Global de Barcelona: 
 
       
-> Si a Barcelona tinguéssim els nivells de qualitat de l’aire recomanats de l’Organització Mundial per la Salut, deixarien de produir-se 1 de cada 3 ictus, 2 de cada 10 infarts de miocardi, i 2 de cada 10 càncers de pulmó.
+> Si a Barcelona tuviésemos los niveles de calidad de l'aire recomendados per l'Organización Mundial de la Salud, los niveles de calidad del aire recomendados de la Organización Mundial por la Salud, dejarían de producirse 1 de cada 3 ictus, 2 de cada 10 infartos de miocardio, y 2 de cada 10 cánceres de pulmón.
 
-Per no parlar dels nombrosos estudis que correlacionen contaminació amb casos d’asma infantil i deficiències en el desenvolupament cerebral dels infants.
+Por no hablar de los numerosos estudios que correlacionan contaminación con casos de asma infantil y deficiencias en el desarrollo cerebral de los niños.
 
-L’aire que respirem cada dia, cada instant, a casa nostra, en els nostres carrers, a les nostres escoles, ens està perjudicant greument la salut.
+El aire que respiramos cada día, cada instante, en nuestro país, en nuestras calles, en nuestras escuelas, nos está perjudicando gravemente la salud.
 
-És per això que exigim a l’administració pública, Ajuntament de Barcelona, Generalitat de Catalunya i Govern de l’Estat Espanyol, una solució immediata a aquest greu problema de salut pública.
+Por eso exigimos a la administración pública, Ayuntamiento de Barcelona, Generalitat de Catalunya y Gobierno del Estado Español, una solución inmediata a este grave problema de salud pública.
 
-Barcelona, maig de 2019.
+Barcelona, mayo de 2019.
 
   <div class="row">
     <div class="col-sm-8" style="margin: 0 auto;">
