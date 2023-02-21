@@ -3,36 +3,23 @@ layout: default
 title: Eixample Respira
 ---
 
-<style>
-.heading1 {
-    color: red;
-    font-weight:700;
-    font-size: 35px;
-}
-.heading2 {
-    color: blue;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
-![Stop Contaminació! Menys cotxes, més salut!](/assets/images/stop-contaminacio.png)
+{% include index_header.html %}
 
 ## Manifesto
 
 Somos una plataforma vecinal, apartidista, del distrito de l’Eixample de Barcelona, que compartimos una gran preocupación por la mala calidad de l’aire que respiramos cada dia, los niveles de ruido y la elevada ocupación de espacio público por parte de los vehiculos privados.
 
-Al nostre districte, des de l’any 2010, se sobrepassen de forma sistemàtica els nivells legals de diòxid de nitrogen (NO²), i patim a diari una qualitat de l’aire molt per sobre dels nivells màxims exigits per l’Organització Mundial per la Salut.
+Desde el 2010, en nuestro distrito se superan de forma sistematica los niveles legales de dióxido de nitrógeno (NO²), y sufrimos diariamente una calidad de aire muy por encime de los niveles máximos marcados por la Organización Mundial de la Salud. 
 
-Els nostres carrers són veritables autopistes urbanes, per exemple:
-- Carrer Aragó (6 carrils) 85.635 vehicles/dia
-- Gran Via (8 carrils) 56.694 vehicles/dia
-- Carrer Marina (6 carrils) 42.252 vehicles/dia
-- Carrer València (4 carrils) 29.817 vehicles/dia
+Nuestros carriles son verdaderas autopistas urbanas. Por ejemplo: 
+- Calle Aragón (6 carriles) 85.635 vehículos/día
+- Gran Via (8 carriles) 56.694 vehículos/día
+- Calle Marina (6 carrils) 42.252 vehículos/dia
+- Calle Valéncia (4 carrils) 29.817 vehículos/dia
 
-Cotxes i motos, tot i representar tan sols un 24% dels desplaçaments a la ciutat, són la principal font de contaminació i soroll, tot monopolitzant pel seu ús exclusiu la major part de l’espai públic.
+Coches y motos, no obstante representen solo el 24% de desplazamientos dentro de la ciudad, son la principal fuente de contaminación y ruido, monopolizando por su uso la mayor parte del espacio público.  
 
-L’Eixample és el districte més poblat de Barcelona, amb una densitat de població de les més altes d’Europa: 356,3 hab/ha. Al districte hi ha 53 escoles bressol, 47 escoles infantils i de primària, 32 centres d’educació secundària, batxillerat i FP i 1 escola d’educació especial.
+L'Eixample es el distrito más poblado de Barcelona, con una densidad de las más elevadas de Europa: 356,3 hab/ha. Al distrito hay 53 guarderías, 47 escuelas infantiles y de primária, 32 centros de educación secundaria, bachillerato y FP y 1 escuela de educación especial. 
 
 Segons l’informe de salut de l’Agència de Salut Pública de Barcelona, al districte la causa principal de mort en els homes és el càncer de pulmó, la malaltia isquèmica del cor (inclou angina de pit i infart cardíac) i la malaltia cerebrovascular (inclou ictus), i en les dones el càncer de mama, el càncer de pulmó, la demència senil i l’Alzheimer.
 
