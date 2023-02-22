@@ -140,10 +140,14 @@ section.recent-posts {
     color: #fff;
 }
 .navbar-toggleable-md .navbar-nav .nav-link.highlight.instagram {
-    background: #bc2a8d;
+    background: #6bac4f;
     color: #fff;
 }
 
+.empty {
+    background: #fff;
+    color: #fff;
+}
 .navbar-toggleable-md .navbar-nav .nav-link.highlight.youtube {
     background: #ff0000;
     color: #fff;
@@ -360,6 +364,7 @@ span.post-name a,span.post-read-more a:hover {
     margin-bottom:3.5rem;
     z-index: 1;
     position: relative;
+    height: 300px;
     /*margin-bottom: 0;*/
 }
 .intro .btn {

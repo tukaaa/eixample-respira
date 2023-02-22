@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Eixample Respira
+lang: es
 ---
 
 {% include index_header.html %}
