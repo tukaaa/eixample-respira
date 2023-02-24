@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Que hem fet
-lang: es
+lang: ca
 ---
 
-## Què hicimos hasta ahora?
+## Que hem fet fins ara?
 
 {% assign lang = page.lang | append: "" %}
 
