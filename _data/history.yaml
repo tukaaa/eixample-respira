@@ -1,4 +1,80 @@
 
+- date: 23/2/2023
+  links:
+    - name:
+        es: "Tweet #RecuperemLesVoreres"
+        es: "Tweet #RecuperemLesVoreres"
+      url: https://twitter.com/eixrespira/status/1628673874089869313?s=20
+  desc:
+    ca: De cara a les eleccions municipals, recordem a tots els partits politics de l'actual mandat la seva falta de compromís a recuperar les voreres.
+    es: De cara a las elecciones municipales, recordamos a todos los partidos politicos del actual mandato su falta de compromiso en recuperar las aceras.
+
+- date: 07/2/2023 
+  links:
+    - name:
+        ca: "Comunicat"
+        es: "Comunicado"
+      url: https://docs.google.com/document/d/1quW3RPKm1fnO93QKaTzgkJJ3XP1PV12DYKMPp58lUko/edit
+    - name:
+        ca: Tweet
+        es: Tweet
+      url: https://twitter.com/eixrespira/status/1622840813033070592?s=20
+  desc:
+    ca: De cara a les eleccions municipals, llancem <b>10 propostes per una ciutat per a les persones</b>
+    es: De cara a las elecciones municipales, lanzamos <b>10 propuestas para una ciudad para las personas</b>
+
+- date: 01/2/2023 
+  links:
+    - name:
+        ca: "Comunicat #RecuperemLesVoreres"
+        es: "Comunicado #RecuperemLesVoreres"
+      url: https://docs.google.com/document/d/1ZFEmN8iPDQ89lIKFCH_RfJZpaaP5BJuDruCMph9Yq_0/edit
+    - name:
+        ca: Entrevista BTV
+        es: Entrevista BTV
+      url: https://twitter.com/basicsbtv/status/1620861380017459233?s=20  
+  desc:
+    ca: "Llancem la campanya <b>#RecuperemLesVoreres</b>, per recuperar espai de vianants envaït per motos. Se sumen cada dia més entitats!"
+    es: "Lanzamos la campaña <b>#RecuperemLesVoreres</b>, para recuperar espacio peatonal invadido por motos. Se suman cada día más entidades!"
+
+- date: 16/7/2022 
+  links:
+    - name:
+        ca: "Comunicat"
+        es: "Comunicado"
+      url: https://twitter.com/eixrespira/status/1548212243229093893?s=20
+  desc:
+    ca: Presentem una proposta per mantenir la <b>Ronda de Sant Antoni lliure de contaminació</b>
+    es: Presentamos una propuesta para mantener la <b>Ronda de Sant Antoni libre de contaminación</b>
+
+- date: 9/6/2022 
+  links:
+    - name:
+        ca: Comunicat
+        es: Comunicado
+      url: https://twitter.com/eixrespira/status/1539264553741176833?s=20 
+    - name:
+        ca: Entrevista BTV
+        es: Entrevista BTV
+      url: https://twitter.com/basicsbtv/status/1539316376808001536?s=20
+  desc:
+    ca: En col·laboració amb <a href="https://twitter.com/catalunyacamina">Catalunya Camina</a>, presentem un estudi sobre el fenomen de les <b>motos més aparcades a les voreres</b>. Més de 90mil motos a tota la ciutat!
+    es: En colaboración con <a href="https://twitter.com/catalunyacamina">Catalunya Camina</a>, presentamos un estudio sobre el fenomeno de las <b>motos mas aparcadas en las aceras</b>. Más de 90mil motos en toda la ciudad!
+
+- date: 31/5/2022
+  links:
+    - name:
+        ca: Tweet
+        es: Tweet
+      url: https://twitter.com/eixrespira/status/1531508400210722818?s=20
+    - name: 
+        ca: Web de la campanya
+        es: Web de la campaña
+      url: https://www.barcelona22.net/
+  desc:
+    ca: "En col·laboració amb més entitats, llancem <b>#barcelona22</b>, la campanya per establir un <b>peatge urbà</b>"
+    es: "En colaboración con más entidades, lanzamos <b>#barcelona22</b>, la campaña para establecer un <b>peaje urbano</b>"
+
 - date: 8/2/2022
   links:
     - name:
@@ -90,6 +166,24 @@
   desc:
     ca: Comunicat per reclamar la reobertura del carrer Aragó els caps de setmana
     es: Comunicado para reclamar la reapertura de la calle Aragó los fines de semana
+
+- date: 22/05/2020
+  links:
+    - name: 
+        es: Propuesta en decidim.barcelona
+        ca: Proposta en decidim.barcelona
+      url: https://www.decidim.barcelona/processes/PressupostosParticipatius/f/4422/proposals/28330
+    - name:
+        es: Video
+        ca: Vídeo  
+      url: https://www.youtube.com/watch?v=k2k7Wm0CA7E 
+    - name:
+        es: Seguimiento en decidim.barcelona
+        ca: Seguiment en decidim.barcelona
+      url: https://www.decidim.barcelona/processes/PressupostosParticipatius/f/4688/results/11106
+  desc: 
+    ca: Presentem la nostra proposta als <b>Pressupostos Participatius</b> per crear <b>noves zones verdes</b> per als veïns
+    es: Presentamos nuestra propuesta en los <b>Presupuestos Participativos</b> para crear <b>nuevas zonas verdes</b> para los vecinos
 
 - date: 21/07/2019
   links:

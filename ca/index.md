@@ -36,25 +36,13 @@ L’aire que respirem cada dia, cada instant, a casa nostra, en els nostres carr
 
 És per això que exigim a l’administració pública, Ajuntament de Barcelona, Generalitat de Catalunya i Govern de l’Estat Espanyol, una solució immediata a aquest greu problema de salut pública
 
-* Barcelona, maig de 2019 *
+*Barcelona, maig de 2019*
 
-  <div class="row">
-    <div class="col-sm-8" style="margin: 0 auto;">
-      <div class="mainheading">
-        <h2 class="posttitle">Fes-ne difusió:</h2>
-        <p>Fes click a la imatge i fes servir les opcions de compartir del teu dispositiu per fer-ho amb els teus grups de Whatsapp o la xarxa social que facis servir.</p>
-      </div>
-    </div>
-  </div>
+## Fes-ne difusió 
+Fes click a la imatge i fes servir les opcions de compartir del teu dispositiu per fer-ho amb els teus grups de Whatsapp o la xarxa social que facis servir.
 
-  <div class="row">
-    <div class="col-sm-8" style="margin: 0 auto 40px;">
-      <a class="flyer" href="{{ site.baseurl }}/assets/images/flyer_20190721cat.jpg">
-        <img src="{{ site.baseurl }}/assets/images/flyer_20190721cat.jpg"/>
-      </a>
-      <a class="flyer" href="{{ site.baseurl }}/assets/images/flyer_20190721cas.jpg">
-        <img src="{{ site.baseurl }}/assets/images/flyer_20190721cas.jpg"/>
-      </a>
-    </div>
-  </div>
-
+<p style="text-align:center;">
+  <a class="flyer" href="{{ site.baseurl }}/assets/images/flyer_20190721cat.jpg">
+    <img src="{{ site.baseurl }}/assets/images/flyer_20190721cat.jpg"/>
+  </a>
+</p>
