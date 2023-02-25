@@ -135,6 +135,60 @@
     ca: Comunicat davant la poca urgència del Pla de Mobilitat Urbana de l'Ajuntament per complir la llei, així com la manca de mesures concretes per reduir la contaminació i l'ús del vehicle privat motoritzat
     es: Comunicado ante la poca urgencia del Plan de Movilidad Urbana del Ayuntamiento por cumplir la ley, así como la falta de medidas concretas para reducir la contaminación y el uso del vehículo privado motorizado
 
+- date: 01/12/2020
+  links:
+    - name: 
+        es: Web de la campaña
+        ca: Web de la campanya
+      url: https://www.revoltaescolar.cat
+    - name:
+        es: Manifiesto 
+        en: Manifest
+      url: https://docs.google.com/document/d/1xB08XVq6vr49w39g8xU6GAhPqYOKI_hkK94E1BjBFSA
+    - name:
+        es: Guia para las escuelas
+        en: Guia per a escoles
+      url: https://docs.google.com/document/d/1XUidds20lR-uaqonZoSppbSEcB-msKRmgwjtPqwPxFk
+    - name:
+        ca: Tweets de la Revolta Escolar
+        es: Tweets de la <i>Revolta Escolar</i>
+      url: https://twitter.com/search?q=%23RevoltaEscolar
+  desc:
+    ca: Impulsem la campanya de <b>mobilització i protestes a les escoles</b>, per uns entorns més saludables i segurs
+    es: Impulsamos la campaña de <b>movilización y protestas en las escuelas</b>, per unos entornos más saludables y seguros
+  details:
+    summary: 
+      ca: Tots els talls
+      es: Todos los cortes
+    items:
+      - date: 1/4/2022
+        desc: 
+          ca: 17é divendres de Revolta Escolar
+          es: 17º viernes de Revuelta Escolar
+      - date: 4/3/2022
+        desc: 
+          ca: "16é divendres de Revolta Escolar, amb 28 talls de carrer a Barcelona: Entença i  Xirinacs, Maristes Immaculada, Rius i Taulet, Octavio Paz, Patronat Doménech, Diputació, Escola 9 Graons, Mallorca, iralletes, Arc Iris /PitRoig, Ferran Sunyer, Rambleta del Clot, Pere Vila, Llorers, EBM El Fil, EBM El Timbal, Escola Pràctiques i Escola Jaume I, Jacint Verdaguer, Escola Antoni Balmanya, Anglesola, Joan Miró, Jesuïtes Casp, angels garriga, Font d'en fargas, La Llacuna del Poblenou, L'Arenal de Llevant, Sagrada Família, Turó Blau, Josep Maria Jujol i Fructuós Gelabert."
+          es: "16º viernes de Revuelta Escolar, con 28 cortes de tráfico a Barcelona: Entença i  Xirinacs, Maristes Immaculada, Rius i Taulet, Octavio Paz, Patronat Doménech, Diputació, Escola 9 Graons, Mallorca, iralletes, Arc Iris /PitRoig, Ferran Sunyer, Rambleta del Clot, Pere Vila, Llorers, EBM El Fil, EBM El Timbal, Escola Pràctiques i Escola Jaume I, Jacint Verdaguer, Escola Antoni Balmanya, Anglesola, Joan Miró, Jesuïtes Casp, angels garriga, Font d'en fargas, La Llacuna del Poblenou, L'Arenal de Llevant, Sagrada Família, Turó Blau, Josep Maria Jujol i Fructuós Gelabert."
+      - date: 4/2/2022
+        desc: 
+          ca: "15é divendres de Revolta Escolar, amb manifestació de 6 escoles a Sant Cugat i 27 talls de carrer a Barcelona: Auró, Octavio Paz, Rius i Taulet, Miralletes, La Llacuna del Poblenou, Encants, Teixidores de Gràcia, Mallorca, Entença i Xirinacs, Jacint Verdaguer, 9 Graons, Rambleta del Clot, Ferran Sunyer, Carlit, Diputació, Angels garriga, ontseny, Concepció, Maristes Immaculada, Els Llorers, Jesuïtes Casp, Font d'en Fargas, Joan Miró, Ramon Llull, Sagrada Família, La Farigola de Vallcarca i Pere Vila."
+          es: "15º viernes de Revuelta Escolar, con manifestación de 6 escuelas a Sant Cugat i 27 cortes de tráfico a Barcelona: Auró, Octavio Paz, Rius i Taulet, Miralletes, La Llacuna del Poblenou, Encants, Teixidores de Gràcia, Mallorca, Entença i Xirinacs, Jacint Verdaguer, 9 Graons, Rambleta del Clot, Ferran Sunyer, Carlit, Diputació, Angels garriga, ontseny, Concepció, Maristes Immaculada, Els Llorers, Jesuïtes Casp, Font d'en Fargas, Joan Miró, Ramon Llull, Sagrada Família, La Farigola de Vallcarca i Pere Vila."
+        links:
+        - name:
+            es: Notícia a BTV
+            ca: Notícia a BTV
+          url: https://beteve.cat/medi-ambient/revolta-escolar-15a-protesta-mapa/
+      - date: 14/1/2022
+        desc: 
+          ca: "Primera Revolta Escolar del 2022, amb 14 talls de trànsit a Barcelona: Octavio Paz, Miralletes, Entença i Xirinacs, Rius i Taulet, ARC iris, 9 Graons, Diputació, Sagrada Família, Joan Miró, La Llacuna del Poblenou, Auró, Llorers, Pere Vila i Font d'en Fargas."
+          es: "Primera Revuelta Escolar de 2022, con 14 cortes de tráfico en Barcelona: Octavio Paz, Miralletes, Entença i Xirinacs, Rius i Taulet, ARC iris, 9 Graons, Diputació, Sagrada Família, Joan Miró, La Llacuna del Poblenou, Auró, Llorers, Pere Vila i Font d'en Fargas."
+        links:
+        - name:
+            es: Notícia a BTV
+            ca: Notícia a BTV
+          url: https://beteve.cat/societat/menys-participacio-primera-revolta-escolar-2022-talls-transit
+
+
 - date: 23/11/2020
   links:
     - name:
