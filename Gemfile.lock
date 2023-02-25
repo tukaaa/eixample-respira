@@ -68,7 +68,8 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
-  x86_64-darwin-18
+  arm64-darwin-22
+  arm64v8-darwin-18
 
 DEPENDENCIES
   jekyll-archives
@@ -80,7 +81,7 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 RUBY VERSION
-   ruby 3.0.2p107
+   ruby 2.7.7p221
 
 BUNDLED WITH
    2.2.22
