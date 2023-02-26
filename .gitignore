@@ -3,4 +3,6 @@ _site
 *.swp
 .sass-cache
 .jekyll-cache
+.bundle
+vendor
 
