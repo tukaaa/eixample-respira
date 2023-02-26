@@ -17,7 +17,7 @@
 {% assign names = site.data.page_names[page.lang] %}
 {% assign iconsize = 30 %}
 
-<!--{% if jekyll.environment == 'production' %}    -->
+{% if jekyll.environment == 'production' %}
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-S22F0E6VD2"></script>
 <script>
@@ -27,7 +27,7 @@
 
   gtag('config', 'G-S22F0E6VD2');
 </script>
-<!-- {% endif %}  -->
+{% endif %}
     
 
     
