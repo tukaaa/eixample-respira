@@ -4,6 +4,10 @@
         ca: Manifest
         es: Manifiesto
       url: https://docs.google.com/document/d/1MqJtdc-J42ad19AY2YdoixhNMiGArkvprzqp4gBReF0/edit#heading=h.8k7u2wdy5vcn
+    - name: 
+        ca: Comunicat
+        es: Comunicado
+      url: https://docs.google.com/document/d/1-tPm3a11Qhhccx5xtdpJ2QeAWIIZMwKkt9fqfu41114/edit#heading=h.d4rh1nk1gre7
   desc:
     ca: Juntament amb altres entitats, impulsem el Manifest en defensa de l'Arbrat del Parc Joan Miró
     es: Junto con otras entidades, impulsamos el Manifiesto en defensa del Arbolado del Parque Joan Miró
@@ -50,8 +54,8 @@
 - date: 16/7/2022 
   links:
     - name:
-        ca: "Comunicat"
-        es: "Comunicado"
+        ca: Comunicat
+        es: Comunicado
       url: https://twitter.com/eixrespira/status/1548212243229093893?s=20
   desc:
     ca: Presentem una proposta per mantenir la <b>Ronda de Sant Antoni lliure de contaminació</b>
