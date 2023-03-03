@@ -4,10 +4,18 @@
         ca: Manifest
         es: Manifiesto
       url: https://docs.google.com/document/d/1MqJtdc-J42ad19AY2YdoixhNMiGArkvprzqp4gBReF0/edit#heading=h.8k7u2wdy5vcn
-    - name: 
+    - name:
         ca: Comunicat
         es: Comunicado
       url: https://docs.google.com/document/d/1-tPm3a11Qhhccx5xtdpJ2QeAWIIZMwKkt9fqfu41114/edit#heading=h.d4rh1nk1gre7
+    - name:
+        ca: Noticia a l'Ara.cat
+        es: Noticia en Ara.cat
+      url: https://www.ara.cat/societat/barcelona/ho-aturarem-veins-obres-fgc-reduiran-gran-parc-l-eixample-esquerra_130_4640028.html
+    - name:
+        ca: Noticia a Publico.es
+        es: Notizia en Publico.es
+      url: https://www.publico.es/public/entitats-veinals-l-eixample-denuncien-les-obres-l-l8-amenacen-parc-joan-miro.html?utm_medium=Public&utm_source=Twitter#Echobox=1677834568
   desc:
     ca: Juntament amb altres entitats, impulsem el Manifest en defensa de l'Arbrat del Parc Joan Miró
     es: Junto con otras entidades, impulsamos el Manifiesto en defensa del Arbolado del Parque Joan Miró
