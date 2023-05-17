@@ -46,8 +46,6 @@ lang: ca
 </p>
 
 <!-- NEXT -->        
-
-<!-- NEXT -->        
 ### <a name="{{ data.outcome.anchor }}"></a> {{ data.outcome.title[lang] }}
 
 <p>
