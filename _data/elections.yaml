@@ -27,3 +27,15 @@ debate:
   link: https://www.youtube.com/watch?v=L-hCLfdtYn8
   width: 800
   height: 600
+
+outcome:
+  title:
+    ca: Els resultats del debat
+    es: Los resultados del debate
+  anchor: resultados
+  desc: 
+    ca: Al final del debat, es van fer unes preguntes estil SI/NO. Algunes coincideixen o s'assemblen (marcat *) a les nostres propostes
+    es: Al final del debate, se realizaron unas preguntas estilo SI/NO. Algunas de estas coinciden o se parecen (marcado *) a nuestras propuestas
+  link: /assets/images/2023-04-29-Debat-Si-No.jpg
+  width: 800
+  height: 600
