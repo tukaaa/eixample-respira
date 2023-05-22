@@ -12,9 +12,9 @@ lang: ca
 ## <a name="{{ data.title.anchor }}"></a>{{ data.title[lang] }}
 <ul>
  <li><a href="#{{ data.proposals.anchor }}">{{ data.proposals.title[lang] }}</a></li>
+<li><a href="#{{ data.programs.anchor }}">{{ data.programs.title[lang] }}</a></li>
  <li><a href="#{{ data.debate.anchor }}">{{ data.debate.title[lang] }}</a></li>
 <li><a href="#{{ data.outcome.anchor }}">{{ data.outcome.title[lang] }}</a></li>
-
 </ul>
 
 <!-- END TOC -->
@@ -32,13 +32,23 @@ lang: ca
 </p>
 
 <!-- NEXT -->        
+### <a name="{{ data.programs.anchor }}"></a> {{ data.programs.title[lang] }}
+
+<p>
+{{ data.programs.desc[lang] }}
+</p>
+
+<img src="{{ data.programs.link }}"/>
+
+<a href="#{{data.title.anchor}}"> {{ data.title.btt[lang] }} </a>
+
+<!-- NEXT -->        
 ### <a name="{{ data.debate.anchor }}"></a> {{ data.debate.title[lang] }}
 
 {{ data.debate.desc[lang] }}
 
 <p style="text-align:center;">
-<iframe width="{{ data.debate.width }}" height="{{ data.debate.height: 600
- }}" src="https://www.youtube.com/embed/L-hCLfdtYn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="{{ data.debate.width }}" height="{{ data.debate.height }}" src="https://www.youtube.com/embed/L-hCLfdtYn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 <p>

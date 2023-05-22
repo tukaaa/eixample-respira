@@ -18,8 +18,8 @@ proposals:
 
 debate:
   title:
-    ca: El debat
-    es: El debate
+    ca: El debat electoral de mobilitat
+    es: El debate electoral de movilidad
   anchor: debate
   desc: 
     ca: Conjuntament amb altres entitats, organitzem el debat sobre la Mobilitat en Barcelona, que va tenir lloc el dìa 9 de Maig. Si no has pogut participar, aquí pots veure el video 
@@ -39,3 +39,17 @@ outcome:
   link: /assets/images/2023-04-29-Debat-Si-No.jpg
   width: 800
   height: 600
+  
+programs:
+  title:
+    ca: La nostra analisis dels programes electorals
+    es: Nuestra analisis de los programas electorales
+  anchor: programs
+  link: /assets/images/comparador---ER.jpg
+  desc: 
+    ca: "Ens llegim els programes electorals i extrapolem els continguts que reflecteixen les nostres propostes: ho tenim tot resumit en la imatge d'abaix. 
+    Podeu veure el document complet <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vTSDzYNDqz-maShZalAVJrf1AOmLy-M5CGBp1GpBNGCG0QffwKumLC3Q1_NFvYwhHAIqk2giTgIZJo8/pubhtml?gid=0&single=true\">aquí</a><br/> 
+    Si algun grup polític troba errors en aquesta publicació, preguem que ens contacteu directament per poder corregir-los"
+    es: "Nos leímos los programas electorales y extrapolamos los contenidos que reflejan nuestras propuestas: lo tenemos todo resumido en la imagen de abajo. Pueden ver el documento completo <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vTSDzYNDqz-maShZalAVJrf1AOmLy-M5CGBp1GpBNGCG0QffwKumLC3Q1_NFvYwhHAIqk2giTgIZJo8/pubhtml?gid=0&single=true\">aquí</a>
+    <br/>
+    Si algún grupo politico encuentra errores en esta publicación, rogamos que nos contacten directamente para poder corregirlos"
