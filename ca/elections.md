@@ -68,4 +68,3 @@ lang: ca
 <p>
 <a href="#{{data.title.anchor}}"> {{ data.title.btt[lang] }} </a>
 </p>
-

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Eleccions 28.5
-lang: es
+lang: ca
 ---
 
 
@@ -68,4 +68,3 @@ lang: es
 <p>
 <a href="#{{data.title.anchor}}"> {{ data.title.btt[lang] }} </a>
 </p>
-
