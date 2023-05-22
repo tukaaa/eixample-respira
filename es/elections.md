@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Eleccions 28.5
-lang: ca
+lang: es
 ---
 
 
