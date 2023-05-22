@@ -42,14 +42,15 @@ outcome:
   
 programs:
   title:
-    ca: La nostra analisis dels programes electorals
+    ca: La nostra anàlisi dels programes electorals
     es: Nuestra analisis de los programas electorales
   anchor: programs
   link: /assets/images/comparador---ER.jpg
   desc: 
-    ca: "Ens llegim els programes electorals i extrapolem els continguts que reflecteixen les nostres propostes: ho tenim tot resumit en la imatge d'abaix. 
-    Podeu veure el document complet <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vTSDzYNDqz-maShZalAVJrf1AOmLy-M5CGBp1GpBNGCG0QffwKumLC3Q1_NFvYwhHAIqk2giTgIZJo8/pubhtml?gid=0&single=true\">aquí</a><br/> 
-    Si algun grup polític troba errors en aquesta publicació, preguem que ens contacteu directament per poder corregir-los"
-    es: "Nos leímos los programas electorales y extrapolamos los contenidos que reflejan nuestras propuestas: lo tenemos todo resumido en la imagen de abajo. Pueden ver el documento completo <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vTSDzYNDqz-maShZalAVJrf1AOmLy-M5CGBp1GpBNGCG0QffwKumLC3Q1_NFvYwhHAIqk2giTgIZJo8/pubhtml?gid=0&single=true\">aquí</a>
+    ca: "A partir de les propostes que vam fer als partits polítics, ens hem llegit els programes electorals i extrapolem els continguts que reflecteixen les nostres mesures: ho hem resumit en aquesta imatge. 
+    Podeu veure el <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vTSDzYNDqz-maShZalAVJrf1AOmLy-M5CGBp1GpBNGCG0QffwKumLC3Q1_NFvYwhHAIqk2giTgIZJo8/pubhtml?gid=0&single=true\" target=\"_blank\"><b>document complet aquí</b></a><br/> 
+    Si algun grup polític troba algun error en aquesta publicació, preguem que ens contacteu directament per poder corregir-los"
+    es: "A partir de las propuestas que hicimos a los partidos politicos, nos leímos los programas electorales y extrapolamos los contenidos que reflejan nuestras mesuras: lo hemos resumido en la imagen de abajo. 
+    Pueden ver el <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vTSDzYNDqz-maShZalAVJrf1AOmLy-M5CGBp1GpBNGCG0QffwKumLC3Q1_NFvYwhHAIqk2giTgIZJo8/pubhtml?gid=0&single=true\" target=\"_blank\"><b>documento completo aquí</b></a>
     <br/>
     Si algún grupo politico encuentra errores en esta publicación, rogamos que nos contacten directamente para poder corregirlos"
