@@ -45,7 +45,7 @@ programs:
     ca: La nostra anàlisi dels programes electorals
     es: Nuestra analisis de los programas electorales
   anchor: programs
-  link: assets/images/comparador---ER-v2.jpg
+  link: /assets/images/comparador---ER-v2.jpg
   desc: 
     ca: "A partir de les propostes que vam fer als partits polítics, ens hem llegit els programes electorals i extrapolem els continguts que reflecteixen les nostres mesures: ho hem resumit en aquesta imatge. 
     Podeu veure el <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vTSDzYNDqz-maShZalAVJrf1AOmLy-M5CGBp1GpBNGCG0QffwKumLC3Q1_NFvYwhHAIqk2giTgIZJo8/pubhtml?gid=0&single=true\" target=\"_blank\"><b>document complet aquí</b></a><br/> 
