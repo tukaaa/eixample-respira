@@ -16,9 +16,9 @@ lang: ca
   <p>{{ entry[lang] }}</p>
 {% endfor %}
 
-### {{ data.signature.link[lang] }}
+<!-- ### {{ data.signature.link[lang] }}
 
-<a href="{{ data.signature.link.url }}">{{ data.signature.text[lang]}}</a>
+<a href="{{ data.signature.link.url }}">{{ data.signature.text[lang]}}</a> -->
 
 ### {{ data.signs.text[lang] }}
 <p> {{data.signs.desc[lang]}} </p>
