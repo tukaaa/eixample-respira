@@ -1000,7 +1000,6 @@ a.highlight {color:inherit; box-shadow:inset 0 -2px 0 rgba(255, 229, 31,1), 0 2p
 a.flyer img {
   border: 1px solid silver;
   border-radius: 4px;
-  width: 48%;
   box-shadow: 0 6px 10px 0 rgba(0,0,0,0.3);
   transition: opacity 0.1s ease-out;
 }

@@ -1,0 +1,56 @@
+manifesto:
+  logo: 
+    link: /assets/images/logo-arago.jpeg
+    width: 800
+    height: 350
+  title:
+    ca: De autopista a espai de vida
+    es: De autopista a espacio de vida
+    en: From highway to a space full of life
+  content:
+    - p1:
+      ca: "El carrer d’Aragó va experimentar <b>dues grans transformacions</b> durant els segles passats, dissenyades per adaptar-lo i donar resposta a les necessitats de la ciutat en cada moment. L’any 1882 es va inaugurar un projecte ambiciós amb el ferrocarril soterrat i ponts que unien els carrers perpendiculars. 80 anys després, en el 1962, s'inaugurava la segona versió, on es va cobrir la via del tren per facilitar-hi el trànsit rodat. El carrer d´Aragó s´adaptava als seus temps i obria el pas a un nou actor: el cotxe, el mitjà de transport creixent en aquell moment."
+      es: "La calle Aragó experimentó dos grandes transformaciones durante los siglos pasados, diseñadas para adaptarse y dar respuesta a las necesidades de la ciudad en cada momento. En 1882 se inaugura un proyecto ambicioso con el ferrocarril soterrado y puentes que unen las calles perpendiculares. 80 años después, en 1962, se inaugura la segunda versión, donde se cubre la vía del tren para facilitar su tráfico rodado. La calle Aragó se adapta a los tiempos y abre el paso a un nuevo actor: el coche, el medio de transporte creciente en ese momento."
+      en: "Aragó street underwent two major transformations in the past centuries, designed to adapt and respond to the needs of the city at all times. In 1882 an ambitious project was inaugurated with the underground railway and bridges that linked the perpendicular streets. 80 years later, in 1962, the second version was inaugurated, where the train track was covered to facilitate road traffic. Aragó street adapts to the times and opens the way for a new actor: the car, the growing mean of transport at that time."
+    - p3:
+      ca: "<b>Avui el carrer d’Aragó és l’autopista urbana per excel·lència</b>: un carrer amb un trànsit de més de 60.000 vehicles cada dia, on les persones que hi viuen no poden obrir les finestres, i els que hi passen, no poden gaudir d’aquest espai per passejar, jugar, comprar, trobar-se amb els seus veïns i veïnes."
+      es: "<b>Hoy, la calle de Aragó es la autopista urbana por excelencia</b>: una calle con un tráfico de más de 60.000 vehículos cada día, donde las personas que viven no pueden abrir las ventanas, y los que pasan, no pueden disfrutar de ese espacio para pasear, jugar, comprar, encontrarse con sus vecinos y vecinas."
+      en: "<b>Today, Aragó is the urban highway par excellence</b>: a street crossed by more than 60,000 vehicles every day, where the people who live there cannot open their windows, and those who pass by cannot enjoy that space to walk, play, shop, or meet their neighbors."
+    - p4:
+      ca: "Per tot això, més de 60 anys després de l’última gran transformació, <b>des d’Eixample Respira defensem que és l’hora d’una nova reforma d’Aragó</b>, per adaptar-lo al nous temps. Avui Barcelona i la seva gent tenen unes sensibilitats diferents a les de fa uns anys, i cal que l’urbanisme de la ciutat hi doni resposta. Avui ja disposem <b>d’evidència científica de l'impacte de la contaminació</b> acústica i de l’aire a la salut de la població, especialment a les persones més vulnerables: infants i gent gran."
+      es: "Por esto, más de 60 años después de la última gran transformación, <b>desde Eixample Respira defendemos que es hora de una nueva reforma de Aragó para adaptarlo a los nuevos tiempos</b>. Hoy Barcelona y las personas que vivimos en ella tenemos sensibilidades diferentes a las de hace unos años, y es necesario que el urbanismo de la ciudad dé respuesta. Ya disponemos de una contundente evidencia científica del impacto que tiene la contaminación acústica y del aire en la salud de la población, especialmente de las personas más vulnerables: niños y ancianos."
+      en: "For this reason, more than 60 years after the last great change, <b>from Eixample Respira we claim that it is time for a new redesign of Aragó to adapt it to the newer times</b>. Today Barcelona and its people have different views than a few years ago, and it is necessary for the city's urban planning to respond. We already have plenty of convincing scientific evidence on the impact that noise and air pollution have on the health of the population, especially the most vulnerable ones: children and elderly people."
+    - p5:
+      ca: "És l’hora que el cotxe - protagonista dels últims 60 anys del carrer d’Aragó - deixi pas als veïns i veïnes. Tal i com ho va fer el tren en el seu moment, no es tracta de que desaparegui, sino que cedeixi el protagonisme als vianants, als mitjans de transport col·lectius i no contaminants. <b>Volem que els veïns i veïnes del carrer d’Aragó i dels carrers al voltant, puguin gaudir d’aquest espai sense que això suposi un impacte a la seva salut.</b>"
+      es: "Es hora que los vecinos y vecinas recuperen la calle en la que viven y que el coche, principal protagonista de los últimos 60 años de la calle de Aragó, sea un actor secundario. Tal y como lo hizo el tren en su momento, no se trata de que desaparezca o se prohíba el uso del coche, sino que este ceda el protagonismo a los peatones, a los medios de transporte colectivos y no contaminantes y a otras formas de uso del espacio público. <b>Queremos que los vecinos y vecinas de la calle Aragó y alrededores, puedan disfrutar de este espacio sin que esto suponga un impacto en la salud.</b>"
+      en: "It is time for the residents to get back their street and for cars, the main actor of the last 60 years on Aragó, to be supporting of the change. Just as the train did at the time, it is not it is a question of prohibition on cars, but rather to give prominence to pedestrians, to collective and non-polluting means of transportation and to other forms of use for the public space.<b>We want the neighbors from Aragó street and its surroundings, to enjoy this space without being impacted on their health.</b>"
+    - p6:
+      ca: "Les anteriors transformacions del carrer Aragó son una prova que <b>els carrers de l’Eixample han canviat el seu ús per adaptarse a cada època</b>. Per això, Eixample Respira proposa repensar el carrer d’Aragó pel futur. Una nova avinguda adaptada als nous temps i els seus reptes. Un nou carrer ple de vida, amb més verd, menys soroll, on poder respirar aire net."
+      es: "Las anteriores transformaciones de la calle Aragó son la prueba de que <b>las calles del Eixample han cambiado su uso para adaptarse a cada época</b>. Por eso, Eixample Respira propone repensar la calle de Aragó para el futuro. Una avenida adaptada a los nuevos tiempos y sus retos. Una nueva calle llena de vida, con más verde, menos ruido, donde respirar aire limpio."
+      en: "Previous transformations of Aragó street are the proof that <b>the streets of Eixample have changed their use to adapt to each time</b>. For this reason, Eixample Respira proposes to rethink Aragó street for the future. An avenue adapted to the new times and their challenges. A new street full of life, with more green, less noise, where people can breathe clean air."
+signature:
+  link: 
+    url: https://forms.gle/7ACHK98LsxKWRQQP8
+    ca: Firma el manifest! 
+    es: ¡Firma el manifiesto!
+    en: Sign the manifesto!
+  text: 
+    ca: Pots firmar rellenant aquest formulari
+    es: Puedes firmar rellenando este formulario
+    en: You can sign by filling out this form
+signs:
+  text: 
+    ca: Descarrega't els pòsters per penjar-los al teu portal
+    es: Descárgate los pósters para colgarlos en tu portal
+    en: Download the posters and hang them in your building
+  desc:
+    ca: El format de tots els pòsters és A4. Els podeu imprimir amb qualsevol impressora 
+    es: El formato de todos los pósters es A4. Puedes imprimirlos con cualquier impresora
+    en: The posters' format is A4. You can print it with any printer
+  assets:
+    - pdf: /assets/pdf/arago-reforma-ya.pdf
+      img: /assets/images/arago-reforma-ya.jpg
+    - pdf: /assets/pdf/arago-que-aqui-viu-gent-a4.qr.pdf
+      img: /assets/images/arago-que-aqui-viu-gent-a4.qr.jpg
+    - pdf: /assets/pdf/arago-ho-voldries-a-casa-teva-qr-a4.pdf
+      img: /assets/images/arago-ho-voldries-a-casa-teva-qr-a4.jpg
