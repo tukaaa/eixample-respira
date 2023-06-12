@@ -54,3 +54,15 @@ signs:
       img: /assets/images/arago-que-aqui-viu-gent-a4.qr.jpg
     - pdf: /assets/pdf/arago-ho-voldries-a-casa-teva-qr-a4.pdf
       img: /assets/images/arago-ho-voldries-a-casa-teva-qr-a4.jpg
+
+social:
+  title:
+    ca: Uneix-te a la campanya! 
+    es: Únete a la campaña!
+    en: Join the campaign!
+  desc:
+    ca: Grup informatiu de Whatsapp. Escanea o fa click en el codi QR! 
+    es: Grupo informativo de Whatsapp. Escanea o haz click en el código QR
+    en: Whatsapp info group
+  whatsapp:
+    qr: /assets/images/arago-qr-whatsapp.jpeg 

@@ -14,7 +14,7 @@
     
 {{site.sharethis}}
     
-{% assign names = site.data.page_names[page.lang] %}
+{% assign names = site.data.page_names %}
 {% assign iconsize = 30 %}
 
 {% if jekyll.environment == 'production' %}
@@ -59,27 +59,30 @@
             <li class="nav-item">
               <span class="nav-link">Menu</span>
             </li>
-            <li class="nav-item">
-              <a  class="nav-link highlight instagram" href="arago.html" target="_top">{{ names.arago }}</a>
-            </li>
-            <li class="nav-item">
-              <a  class="nav-link highlight instagram" href="index.html" target="_top">{{ names.manifesto }}</a>
-            </li>
-            <li class="nav-item">
-              <a  class="nav-link highlight instagram" href="elections.html" target="_top">{{ names.elections }}</a>
-            </li>
-            <li class="nav-item">
-              <a  class="nav-link highlight instagram" href="history.html" target="_top">{{ names.history }}</a>
-            </li>
+
+            {% for _page in names.pages %}
+            {% if _page.name[page.lang] != "n/a" %}
+              <li class="nav-item">
+                <a  
+                  class="nav-link highlight instagram" 
+                  href="{{ _page.url }}.html" 
+                  target="_top"
+                >{{ _page.name[page.lang] }}</a>
+              </li>
+              {% endif %}
+            {% endfor %}
             <li>
               <p class="empty">...</p>
             </li>
             <li>
-              <a href="/ca">
+              <a href="/ca/arago.html">
                 <img src="/assets/images/ca.png" width=30 />
               </a>
-              <a href="/es">
+              <a href="/es/arago.html">
                 <img src="/assets/images/es.png" width=30 />
+              </a>
+              <a href="/en/arago.html">
+                <img src="/assets/images/en.png" width=30 />
               </a>
             </li>
           </ul>
@@ -137,7 +140,7 @@
 
                 <div class="col-sm-3">
                   <div class="footer-widget">
-                    <h5 class="title">{{ names.followus }}</h5>
+                    <h5 class="title">{{ names.links.followus[page.lang] }}</h5>
                     <ul>
                       <li><a href="https://twitter.com/eixrespira" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/twitter.png" width="{{ iconsize }}"/> Twitter</a></li>
                       <li><a href="https://www.instagram.com/eixamplerespira" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/instagram.png" width="{{ iconsize }}"/> Instagram</a></li>
@@ -148,7 +151,7 @@
 
                 <div class="col-sm-3">
                   <div class="footer-widget">
-                    <h5 class="title">{{ names.contactus }}</h5>
+                    <h5 class="title">{{ names.links.contactus[page.lang] }}</h5>
                     <ul>
                       <li><a href="mailto:eixample.respira@gmail.com"><img src="{{ site.baseurl }}/assets/images/icons/mail.png" width="{{ iconsize }}"> eixample.respira@gmail.com</a></li>
                     </ul>

@@ -1,14 +1,30 @@
-ca: 
-    history: Activitats
-    manifesto: Manifest 2019
-    elections: Municipals 28M
-    followus: Segueix-nos
-    contactus: Contacta'ns
-    arago: Aragò, Respira!
-es: 
-    history: Actividades
-    manifesto: Manifesto 2019
-    elections: Municipales 28M
-    followus: Siguenos
-    contactus: Contacto
-    arago: ¡Aragò, Respira!
+pages:
+  - name: 
+      ca: Aragò, Respira!
+      es: ¡Aragò, Respira!
+      en: ¡Aragò, Respira!
+    url: arago
+  - name:
+      ca: Manifest 2019
+      es: Manifesto 2019
+      en: n/a
+    url: index
+  - name: 
+      ca: Municipals 28M
+      es: Municipales 28M
+      en: n/a
+    url: elections
+  - name: 
+      ca: Activitats
+      es: Actividades
+      en: n/a
+    url: history
+
+links:    
+  followus: 
+    ca: Segueix-nos
+    es: Siguenos
+  contactus: 
+    ca: Contacta'ns
+    es: Contactanos
+    en: Contact us

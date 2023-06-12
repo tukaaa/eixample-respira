@@ -33,3 +33,13 @@ lang: es
   </a>
 {% endfor %}
 </p>
+
+### {{ data.social.title[lang] }}
+<p> {{data.social.desc[lang]}} </p>
+<a href="https://chat.whatsapp.com/Dug2mwvW7AE80BePimS0CJ">
+  <img 
+    class="center"
+    src="{{ data.social.whatsapp.qr }}" 
+    alt="{{data.social.desc[lang]}}"
+    width=200/>
+</a>
