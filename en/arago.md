@@ -7,7 +7,6 @@ lang: en
 {% assign lang = page.lang | append: "" %}
 {% assign data = site.data.arago %}
 
-
 <img src="{{ data.manifesto.logo.link }}" width={{ data.manifesto.logo.width }} class="center"/>
 
 ### {{ data.manifesto.title[lang] }}
@@ -35,11 +34,20 @@ lang: en
 </p>
 
 ### {{ data.social.title[lang] }}
-<p> {{data.social.desc[lang]}} </p>
-<a href="https://chat.whatsapp.com/Dug2mwvW7AE80BePimS0CJ">
-  <img 
-    class="center"
-    src="{{ data.social.whatsapp.qr }}" 
-    alt="{{data.social.desc[lang]}}"
-    width=200/>
-</a>
+<table id="arago">
+  {% for item in data.social.items %}
+  <tr id="arago"> 
+    <td id="arago-icon">
+      <img src="{{ item.icon }}" width="{{ data.social.iconsize }}" />
+    </td>
+    <td id="arago-desc">
+      <p>{{item.desc[lang]}} <a href="{{item.url}}">{{item.url}}</a></p>
+    </td>
+    {% if item.img != null %}
+    <td>
+      <img src="{{item.img}}" width="{{ data.social.qrsize }}"/>
+    </td>
+    {% endif %}
+  </tr>
+  {% endfor %}
+</table>
