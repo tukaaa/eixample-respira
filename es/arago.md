@@ -33,7 +33,7 @@ lang: es
 ### {{ data.social.title[lang] }}
 <table id="arago">
   {% for item in data.social.items %}
-  <tr id="arago"> 
+  <tr> 
     <td id="arago-icon">
       <img src="{{ item.icon }}" width="{{ data.social.iconsize }}" />
     </td>
@@ -41,7 +41,7 @@ lang: es
       <p>{{item.desc[lang]}} <a href="{{item.url}}">{{item.url}}</a></p>
     </td>
     {% if item.img != null %}
-    <td>
+    <td id="arago-img">
       <img src="{{item.img}}" width="{{ data.social.qrsize }}"/>
     </td>
     {% endif %}

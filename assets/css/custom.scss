@@ -26,6 +26,7 @@ tr#arago {
 }
 
 td#arago-icon {
+  min-width: 60px;
   vertical-align: middle;
   padding-right: 10px;
 }
@@ -33,4 +34,8 @@ td#arago-icon {
 td#arago-desc {
   width: 70%;
   vertical-align: middle;
+}
+
+td#arago-img {
+  min-width: 100px;
 }
