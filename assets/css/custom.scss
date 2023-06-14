@@ -14,8 +14,23 @@
   margin-right: auto;
 }
 
-.formulari {
-  margin-left: auto;
-  margin-right: auto;
-  width: 1000;
+table#arago {
+  width:80%; 
+  margin-left:10%; 
+  margin-right:10%;
+  vertical-align: middle;
+}
+
+tr#arago {
+  vertical-align: middle;
+}
+
+td#arago-icon {
+  vertical-align: middle;
+  padding-right: 10px;
+}
+
+td#arago-desc {
+  width: 70%;
+  vertical-align: middle;
 }

@@ -16,10 +16,6 @@ lang: es
   <p>{{ entry[lang] }}</p>
 {% endfor %}
 
-<!-- ### {{ data.signature.link[lang] }}
-
-<a href="{{ data.signature.link.url }}">{{ data.signature.text[lang]}}</a> -->
-
 ### {{ data.signs.text[lang] }}
 <p> {{data.signs.desc[lang]}} </p>
 
@@ -35,11 +31,20 @@ lang: es
 </p>
 
 ### {{ data.social.title[lang] }}
-<p> {{data.social.desc[lang]}} </p>
-<a href="https://chat.whatsapp.com/Dug2mwvW7AE80BePimS0CJ">
-  <img 
-    class="center"
-    src="{{ data.social.whatsapp.qr }}" 
-    alt="{{data.social.desc[lang]}}"
-    width=200/>
-</a>
+<table id="arago">
+  {% for item in data.social.items %}
+  <tr id="arago"> 
+    <td id="arago-icon">
+      <img src="{{ item.icon }}" width="{{ data.social.iconsize }}" />
+    </td>
+    <td id="arago-desc">
+      <p>{{item.desc[lang]}} <a href="{{item.url}}">{{item.url}}</a></p>
+    </td>
+    {% if item.img != null %}
+    <td>
+      <img src="{{item.img}}" width="{{ data.social.qrsize }}"/>
+    </td>
+    {% endif %}
+  </tr>
+  {% endfor %}
+</table>

@@ -57,12 +57,23 @@ signs:
 
 social:
   title:
-    ca: Uneix-te a la campanya! 
-    es: Únete a la campaña!
-    en: Join the campaign!
-  desc:
-    ca: Grup informatiu de Whatsapp. Escanea o fa click en el codi QR! 
-    es: Grupo informativo de Whatsapp. Escanea o haz click en el código QR
-    en: Whatsapp info group
-  whatsapp:
-    qr: /assets/images/arago-qr-whatsapp.jpeg 
+    ca: Xarxes Sociales
+    es: Redes Sociales
+    en: Social Networks
+  iconsize: 50
+  qrsize: 100
+  items:
+    - whatsapp:
+      icon: /assets/images/icons/whatsapp.png
+      desc:
+        ca: Uneix-te al grup informatiu de Whatsapp i queda't al dia de totes les activitats! Escaneja el codi QR al costat o entra a 
+        es: Únete al grupo informativo de Whatsapp y mantente al día de todas las actividades de la campaña! Escanea el código QR o entra en
+        en: Join our whatsapp info group and stay up-to-date with all campaign activities! Scan the QR code or enter 
+      url: https://chat.whatsapp.com/Dug2mwvW7AE80BePimS0CJ
+      img: /assets/images/arago-qr-whatsapp.jpeg 
+    - twitter:
+      icon: /assets/images/icons/twitter.png
+      desc: 
+        ca: "Usa el hashtag <b>#AragoRespira</b> a las teves piulades, amb una foto o un video denunciant la situació d'Aragó"
+        es: "Usa el hashtag <b>#AragoRespira</b> en tus tuits, con una foto o un video denunciando la situación de Aragó"
+        en: "Use the hashtag <b>#AragoRespira</b> in your tweets, with a photo of video showing the situation of Aragó" 
