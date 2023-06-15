@@ -1,9 +1,14 @@
 manifesto:
+  anchor: manifesto
   logo: 
     link: /assets/images/logo-arago.jpeg
-    width: 800
-    height: 350
+    width: 600
+    height: 250
   title:
+    ca: Manifest
+    es: Manifiesto
+    en: Manifesto
+  lemma:
     ca: D'autopista a espai de vida
     es: De autopista a espacio de vida
     en: From highway to space full of life
@@ -28,17 +33,13 @@ manifesto:
       ca: "Les anteriors transformacions del carrer Aragó son una prova que <b>els carrers de l’Eixample han canviat el seu ús per adaptarse a cada època</b>. Per això, Eixample Respira proposa repensar el carrer d’Aragó pel futur. Una nova avinguda adaptada als nous temps i els seus reptes. Un nou carrer ple de vida, amb més verd, menys soroll, on poder respirar aire net."
       es: "Las anteriores transformaciones de la calle Aragó son la prueba de que <b>las calles del Eixample han cambiado su uso para adaptarse a cada época</b>. Por eso, Eixample Respira propone repensar la calle de Aragó para el futuro. Una avenida adaptada a los nuevos tiempos y sus retos. Una nueva calle llena de vida, con más verde, menos ruido, donde respirar aire limpio."
       en: "Previous transformations of Aragó street are the proof that <b>the streets of Eixample have changed their use to adapt to each time</b>. For this reason, Eixample Respira proposes to rethink Aragó street for the future. An avenue adapted to the new times and their challenges. A new street full of life, with more green, less noise, where people can breathe clean air."
-signature:
-  link: 
-    url: https://forms.gle/7ACHK98LsxKWRQQP8
-    ca: Firma el manifest! 
-    es: ¡Firma el manifiesto!
-    en: Sign the manifesto!
-  text: 
-    ca: Pots firmar rellenant aquest formulari
-    es: Puedes firmar rellenando este formulario
-    en: You can sign by filling out this form
+
 signs:
+  anchor: signs
+  title:
+    ca: Cartells per imprimir
+    es: Carteles para imprimir
+    en: Signs to print
   text: 
     ca: Descarrega't els pòsters per penjar-los al teu portal
     es: Descárgate los pósters para colgarlos en tu portal
@@ -56,6 +57,7 @@ signs:
       img: /assets/images/arago-ho-voldries-a-casa-teva-qr-a4.jpg
 
 social:
+  anchor: social
   title:
     ca: Xarxes Socials
     es: Redes Sociales
@@ -77,3 +79,10 @@ social:
         ca: "Usa el hashtag <b>#AragoRespira</b> a las teves piulades, amb una foto o un video denunciant la situació d'Aragó"
         es: "Usa el hashtag <b>#AragoRespira</b> en tus tuits, con una foto o un video denunciando la situación de Aragó"
         en: "Use the hashtag <b>#AragoRespira</b> in your tweets, with a photo of video showing the situation of Aragó" 
+
+events:
+  anchor: events
+  title: 
+    ca: Events
+    es: Eventos
+    en: Events
