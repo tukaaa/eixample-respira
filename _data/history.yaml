@@ -1,3 +1,70 @@
+- date: 12/6/2023
+  tag: arago
+  links:
+    - name:
+        ca: Noticia BTV
+        es: Noticia BTV
+        en: BTV News
+      url: https://beteve.cat/basics/eixample-respira-talla-el-carrer-darago-avisem-al-nou-govern-que-insistirem-perque-es-reformi/
+    - name:
+        ca: Beteve Bàsics
+        es: Beteve Bàsics
+        en: Beteve Bàsics
+      url: https://beteve.cat/mobilitat/eixample-respira-talla-carrer-arago-demanar-reforma-proper-alcalde/
+    - name: 
+        ca: La Vanguardia
+        es: La Vanguardia
+        en: La Vanguardia
+      url: https://www.lavanguardia.com/local/barcelona/20230612/9036254/corte-calle-arago-reclamar-deje-autopista.html
+    - name: 
+        ca: El Periodico
+        es: El Periodico
+        en: El Periodico
+      url: https://www.elperiodico.cat/ca/eixample/20230612/eixample-respira-reclama-nou-alcalde-88606100
+    - name:
+        ca: Nacio Digital
+        es: Nacio Digital
+        en: Nacio Digital
+      url: https://www.naciodigital.cat/noticia/258256/veins-autopista-centre-barcelona-treure-cotxes-carrer-arago
+    - name:
+        ca: Onda Cero
+        es: Onda Cero
+        en: Onda Cero
+      url: https://www.ondacero.es/emisoras/catalunya/noticies/veins-leixample-reclamen-eliminar-lautopista-urbana-carrer-arago_202306126487058fea11350001f0f28a.html
+    - name:
+        ca: Tot Barcelona
+        es: Tot Barcelona
+        en: Tot Barcelona
+      url: https://www.totbarcelona.cat/mobilitat/eixample-respira-talla-carrer-arago-374637/
+    - name:
+        ca: Ara.cat
+        es: Ara.cat
+        en: Ara.cat
+      url: https://www.ara.cat/societat/barcelona/veins-l-eixample-tallen-carrer-arago-demanar-deixi-autopista-cotxes_25_4728518.html
+    - name: 
+        ca: El Nacional
+        es: El Nacional
+      url: https://www.elnacional.cat/ca/barcelona/centenar-veins-tallen-carrer-arago-barcelona-deixi-una-autopista-urbana_1043241_102.html
+    - name: 
+        ca: 20 Minutos
+        es: 20 Minutos
+        en: 20 Minutos
+      url: https://www.20minutos.es/noticia/5137132/0/unos-treinta-vecinos-cortan-la-calle-arago-de-barcelona-durante-45-minutos-para-pedir-su-reforma/
+    - name:
+        ca: Linia Eixample
+        es: Linia Eixample
+        en: Linia Eixample
+      url: https://liniaxarxa.cat/liniaeixample/noticies/eixample-respira-talla-el-carrer-arago-per-exigir-que-deixi-de-ser-una-autopista-urbana/
+    - name:
+        ca: Europapress
+        es: Europapress
+        en: Europapress
+      url: https://www.europapress.es/catalunya/noticia-treinta-vecinos-cortan-calle-arago-barcelona-45-minutos-pedir-reforma-20230612192319.html
+  desc:
+    ca: Presentem la campaña <b>Aragó, Respira!</b>
+    es: Presentamos la campaña <b>Aragó, Respira!</b>
+    en: We present to the public the campaign <b>Aragó, Respira!</b>
+
 - date: 29/3/2023
   links:
     - name:

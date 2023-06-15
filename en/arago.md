@@ -6,20 +6,26 @@ lang: en
 
 {% assign lang = page.lang | append: "" %}
 {% assign data = site.data.arago %}
+{% assign events = site.data.history %}
 
-<img src="{{ data.manifesto.logo.link }}" width={{ data.manifesto.logo.width }} class="center"/>
 
-### {{ data.manifesto.title[lang] }}
+<img 
+  src="{{ data.manifesto.logo.link }}" width={{ data.manifesto.logo.width }} class="center"
+  id="top" />
+
+<ul>
+{% for item in data %}
+    <li><a href="#{{ item[1].anchor }}">{{ item[1].title[lang] }}</a></li> 
+{% endfor %}
+</ul>
+
+### {{ data.manifesto.lemma[lang] }} <a id={{data.manifesto.anchor}} href="#top">⬆️</a>
 {{ data.content }}
 {% for entry in data.manifesto.content %}
   <p>{{ entry[lang] }}</p>
 {% endfor %}
 
-<!-- ### {{ data.signature.link[lang] }}
-
-<a href="{{ data.signature.link.url }}">{{ data.signature.text[lang]}}</a> -->
-
-### {{ data.signs.text[lang] }}
+### {{ data.signs.text[lang] }} <a id={{data.signs.anchor}} href="#top">⬆️</a>
 <p> {{data.signs.desc[lang]}} </p>
 
 <p style="text-align:center;">
@@ -33,7 +39,7 @@ lang: en
 {% endfor %}
 </p>
 
-### {{ data.social.title[lang] }}
+### {{ data.social.title[lang] }} <a id={{data.social.anchor}} href="#top">⬆️</a>
 <table id="arago">
   {% for item in data.social.items %}
   <tr> 
@@ -51,3 +57,18 @@ lang: en
   </tr>
   {% endfor %}
 </table>
+
+### {{ data.events.title[lang] }} <a id={{data.events.anchor}} href="#top" class="right">⬆️</a>
+<ul class="timeline">
+  {% for item in events %}
+    {% if item.tag == 'arago' %}
+      <li>
+      <b>{{ item.date }}</b><br>
+      {{ item.desc[lang] }}
+      </li>
+      {% for link in item.links %}
+        🔗 <a href="{{ link.url }}" target="_blank">{{ link.name[lang] }}</a>
+      {% endfor %}
+    {% endif %}
+  {% endfor%}
+</ul>
