@@ -1,3 +1,46 @@
+- date: 22/07/2023
+  tag: arago
+  desc: 
+    ca: Rebutjem amb un comunicat la cancellació del projecte <a href="https://www.decidim.barcelona/processes/PressupostosParticipatius/f/4517/budgets/6/projects/77" target="_blank">Impulsem cinc ecoxamfrans al carrer d’Aragó</a>, per part del nou gobern municipal
+    es: Rechazamos con un comunicado la cancelación del proyecto <a href="https://www.decidim.barcelona/processes/PressupostosParticipatius/f/4517/budgets/6/projects/77" target="_blank">Impulsamos cinco ecochaflanes en la calle de Aragó</a>, por parte del nuevo gobierno municipal
+    en: With a press-release, we reject the cancellation of the project <a href="https://www.decidim.barcelona/processes/PressupostosParticipatius/f/4517/budgets/6/projects/77" target="_blank">Impulsamos cinco ecochaflanes en la calle de Aragó</a>, by the new municipal government
+  links:
+    - name:
+        ca: Comunicat de premsa
+        es: Comunicado de prensa
+        en: Press release
+      url: https://docs.google.com/document/d/1yLs5E8MZwqNFhjVVNVjVfq725W_Oh18qt8GhY-_Fhys/edit?usp=sharing
+    - name:
+        ca: Piulada
+        es: Tweet
+        en: Tweet
+      url: https://twitter.com/eixrespira/status/1682690329894436866?s=20
+    - name:
+        ca: Noticia BTV
+        es: Noticia BTV
+        en: BTV News
+      url: https://beteve.cat/societat/eixample-respira-lamenta-cancellacio-ecoxamfrans-arago/
+    - name: 
+        ca: La Vanguardia
+        es: La Vanguardia
+        en: La Vanguardia
+      url: https://www.lavanguardia.com/local/barcelona/20230722/9127379/queja-vecinal-retirada-cuatro-proyectos-ecochaflanes-arago.html
+    - name: 
+        ca: ara.cat
+        es: ara.cat
+        en: ara.cat
+      url: https://www.ara.cat/societat/barcelona/projecte-collboni-deixa-caure-ecoxamfrans-l-eixample_1_4761586.html
+    - name:
+        ca: El Periodico
+        es: El Periodico
+        en: El Periodico
+      url: https://www.elperiodico.com/es/eixample/20230721/collboni-descarta-cuatro-cinco-ecochaflanes-90161704
+    - name:
+        ca: Tot Barcelona
+        es: Tot Barcelona
+        en: Tot Barcelona
+      url: https://www.totbarcelona.cat/societat/eixample-respira-dispara-contra-comuns-396257/
+
 - date: 12/6/2023
   tag: arago
   links:
