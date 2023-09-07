@@ -1012,6 +1012,7 @@ ul.timeline {
   border-left: 4px solid #6FD350;
   padding-left: 30px;
 }
+
 ul.timeline > li {
     margin-top: 20px;
 }
@@ -1020,6 +1021,23 @@ ul.timeline > li li {
 }
 
 ul.timeline > li > a {
+    display: inline-block;
+}
+
+ul.future-timeline {
+  border: 4px solid #6FD350;
+  padding-left: 30px;
+  font-size: 110%;
+}
+
+ul.future-timeline > li {
+    margin-top: 20px;
+}
+ul.future-timeline > li li {
+    margin-top: 10px;
+}
+
+ul.future-timeline > li > a {
     display: inline-block;
 }
 

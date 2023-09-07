@@ -4,7 +4,6 @@ title: Aragò, Respira!
 lang: es
 ---
 
-
 {% assign lang = page.lang | append: "" %}
 {% assign data = site.data.arago %}
 {% assign events = site.data.history %}
@@ -18,6 +17,25 @@ lang: es
 {% for item in data %}
     <li><a href="#{{ item[1].anchor }}">{{ item[1].title[lang] }}</a></li> 
 {% endfor %}
+</ul>
+
+### {{ data.next.title[lang] }} <a id={{data.next.anchor}} href="#top">⬆️</a>
+<ul class="timeline">
+
+  {% for item in events %}
+    {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+    {% capture posttime %}{{item.date | date: '%s'}}{% endcapture %}
+
+    {% if item.tag == 'arago' and posttime > nowunix %}
+      <li>
+      <b>{{ item.date }}</b><br>
+      {{ item.desc[lang] }}
+      </li>
+      {% for link in item.links %}
+        🔗 <a href="{{ link.url }}" target="_blank">{{ link.name[lang] }}</a>
+      {% endfor %}
+    {% endif %}
+  {% endfor%}
 </ul>
 
 ### {{ data.manifesto.lemma[lang] }} <a id={{data.manifesto.anchor}} href="#top">⬆️</a>
