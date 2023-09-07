@@ -19,6 +19,25 @@ lang: en
 {% endfor %}
 </ul>
 
+### {{ data.next.title[lang] }} <a id={{data.next.anchor}} href="#top">⬆️</a>
+<ul class="timeline">
+
+  {% for item in events %}
+    {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+    {% capture posttime %}{{item.date | date: '%s'}}{% endcapture %}
+
+    {% if item.tag == 'arago' and posttime > nowunix %}
+      <li>
+      <b>{{ item.date }}</b><br>
+      {{ item.desc[lang] }}
+      </li>
+      {% for link in item.links %}
+        🔗 <a href="{{ link.url }}" target="_blank">{{ link.name[lang] }}</a>
+      {% endfor %}
+    {% endif %}
+  {% endfor%}
+</ul>
+
 ### {{ data.manifesto.lemma[lang] }} <a id={{data.manifesto.anchor}} href="#top">⬆️</a>
 {{ data.content }}
 {% for entry in data.manifesto.content %}
@@ -58,7 +77,7 @@ lang: en
   {% endfor %}
 </table>
 
-### {{ data.events.title[lang] }} <a id={{data.events.anchor}} href="#top" class="right">⬆️</a>
+### {{ data.events.title[lang] }} <a id={{data.events.anchor}} href="#top">⬆️</a>
 <ul class="timeline">
   {% for item in events %}
     {% if item.tag == 'arago' %}

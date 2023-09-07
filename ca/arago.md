@@ -7,6 +7,7 @@ lang: ca
 {% assign lang = page.lang | append: "" %}
 {% assign data = site.data.arago %}
 {% assign events = site.data.history %}
+{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
 
 
 <img 
@@ -17,6 +18,24 @@ lang: ca
 {% for item in data %}
     <li><a href="#{{ item[1].anchor }}">{{ item[1].title[lang] }}</a></li> 
 {% endfor %}
+</ul>
+
+### {{ data.next.title[lang] }} <a id={{data.next.anchor}} href="#top">⬆️</a>
+<ul class="future-timeline">
+
+  {% for item in events %}
+    {% capture posttime %}{{item.date | date: '%s'}}{% endcapture %}
+
+    {% if item.tag == 'arago' and posttime > now %}
+      <li>
+      <b>{{ item.date }}</b><br>
+      {{ item.desc[lang] }}
+      </li>
+      {% for link in item.links %}
+        🔗 <a href="{{ link.url }}" target="_blank">{{ link.name[lang] }}</a>
+      {% endfor %}
+    {% endif %}
+  {% endfor%}
 </ul>
 
 ### {{ data.manifesto.lemma[lang] }} <a id={{data.manifesto.anchor}} href="#top">⬆️</a>
@@ -60,8 +79,10 @@ lang: ca
 
 ### {{ data.events.title[lang] }} <a id={{data.events.anchor}} href="#top">⬆️</a>
 <ul class="timeline">
+  {% capture nowunix %}{{ 'now' | date: '%s'}}{% endcapture %}
   {% for item in events %}
-    {% if item.tag == 'arago' %}
+    {% capture posttime %}{{ item.date | date: '%s'}}{% endcapture %}
+    {% if item.tag == 'arago' and posttime < now %}
       <li>
       <b>{{ item.date }}</b><br>
       {{ item.desc[lang] }}

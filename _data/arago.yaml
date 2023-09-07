@@ -1,3 +1,10 @@
+next:
+  anchor: next
+  title:
+    es: Próximos eventos
+    en: Upcoming events
+    ca: Propers events
+
 manifesto:
   anchor: manifesto
   logo: 
