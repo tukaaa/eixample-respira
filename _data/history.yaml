@@ -5,6 +5,31 @@
     es: Cortaremos por segunda vez la calle de Aragó, ¡reclamando una reforma integral de esta calle! La concentración comenzará <b>a las 18h, en el cruce Aragó/Aribau</b>. Estaremos desde las 10h en la esquina explicando el manifiesto y con una actividad para los vecinos
     en: We will cut Aragó for the second time, demanding a comprehensive reform of this street! The meeting point is at <b>6pm, at the Aragó/Aribau intersection</b>. We will be on the corner from 10 a.m. explaining the manifesto and with an activity for the neighbors
 
+- date: 8/09/2023
+  desc:
+    ca: test
+    es: Expresamos nuestro rechazo a la sentencia que quiere revertir el Eix Verd de Consell de Cent
+  links:
+    - name:
+        ca: Comunicat de premsa
+        es: Comunicado de prensa
+        en: Press release
+      url: https://docs.google.com/document/d/1NjHMkP5p3KE7B8OciuA90KGeXsyAg-NzhB5WN7SudC8/edit?usp=sharing
+    - name:
+        ca: Piulada
+        es: Tweet
+        en: Tweet
+      url: https://twitter.com/eixrespira/status/1700082751775322468?s=61&t=dN7HmaxkEdHotuAkP9xj5g
+    - name:
+        ca: Noticia BTV
+        es: Noticia BTV
+        en: BTV News
+      url: https://beteve.cat/politica/eixample-respira-sentencia-superilla-consell-cent-esquiva-problema-salut-publica/
+    - name:
+        ca: Radio Onda Cero
+        es: Radio Onda Cero
+        en: Onda Cero Radio
+      url: https://www.ondacero.es/emisoras/catalunya/noticies/eixample-respira-critica-sentencia-leix-verd-consell-cent_2023090864fb304b7caa7b0001b373db.html
 
 - date: 22/07/2023
   tag: arago
