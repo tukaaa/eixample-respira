@@ -6,6 +6,7 @@
     en: We will cut Aragó for the second time, demanding a comprehensive reform of this street! The meeting point is at <b>6pm, at the Aragó/Aribau intersection</b>. We will be on the corner from 10 a.m. explaining the manifesto and with an activity for the neighbors
 
 - date: 8/09/2023
+  tag: arago
   desc:
     ca: test
     es: Expresamos nuestro rechazo a la sentencia que quiere revertir el Eix Verd de Consell de Cent
@@ -30,6 +31,31 @@
         es: Radio Onda Cero
         en: Onda Cero Radio
       url: https://www.ondacero.es/emisoras/catalunya/noticies/eixample-respira-critica-sentencia-leix-verd-consell-cent_2023090864fb304b7caa7b0001b373db.html
+    - name: 
+        ca: 3/24
+        es: 3/24
+        en: 3/24
+      url: https://www.ccma.cat/324/eixample-respira-critica-la-sentencia-de-leix-verd-de-consell-de-cent-i-demana-al-consistori-mesures-mes-ambicioses/noticia/3248834/
+    - name:
+        ca: La Vanguardia
+        es: La Vanguardia
+        en: La Vanguardia
+      url: https://www.lavanguardia.com/vida/20230908/9214180/plataforma-vecinal-eixample-rechaza-sentencia-cambios-consell-cent.html
+    - name:
+        ca: Tot Barcelona
+        es: Tot Barcelona
+        en: Tot Barcelona
+      url: https://www.totbarcelona.cat/societat/favb-eixample-respira-soposen-sentencia-superilla-415496/
+    - name:
+        ca: RAC1 
+        es: RAC1
+        en: RAC1
+      url: https://www.rac1.cat/societat/20230908/113210/denunciants-eix-verd-consell-cent-barcelona-descarten-desfer-obra-dialeg-collboni.html
+    - name:
+        ca: Aldia (Europa Press)
+        es: Aldia (Europa Press)
+        en: Aldia (Europa Press)
+      url: https://www.aldia.cat/catalunya/noticia-eixample-respira-demana-no-fer-passos-enrere-pacificacio-consell-cent-20230908115848.html
 
 - date: 22/07/2023
   tag: arago
