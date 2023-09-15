@@ -5,15 +5,14 @@ lang: es
 ---
 
 {% assign lang = page.lang | append: "" %}
-{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+{% capture now %}{{'today' | date: '%Y-%m-%d'}}{% endcapture %}
 
 ## Próximos eventos
 
 <ul class="future-timeline">
   {% for item in site.data.history %}
-    {% capture posttime %}{{item.date | date: '%s'}}{% endcapture %}
-
-    {% if posttime > now %}
+    {% capture posttime %}{{item.date | date: '%Y-%m-%d'}}{% endcapture %}
+    {% if posttime >= now %}
       <li>
       <b>{{ item.date }}</b><br>
       {{ item.desc[lang] }}
@@ -29,7 +28,7 @@ lang: es
 
 <ul class="timeline">
 {% for entry in site.data.history %}
-  {% capture posttime %}{{entry.date | date: '%s'}}{% endcapture %}
+  {% capture posttime %}{{entry.date | date: '%Y-%m-%d'}}{% endcapture %}
   {% if posttime < now %}
     <li>
     <b>{{ entry.date }}</b><br>
