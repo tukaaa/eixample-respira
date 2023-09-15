@@ -7,8 +7,7 @@ lang: ca
 {% assign lang = page.lang | append: "" %}
 {% assign data = site.data.arago %}
 {% assign events = site.data.history %}
-{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
-
+{% capture now %}{{'today' | date: '%Y-%m-%d'}}{% endcapture %}
 
 <img 
   src="{{ data.manifesto.logo.link }}" width={{ data.manifesto.logo.width }} class="center"
@@ -24,9 +23,8 @@ lang: ca
 <ul class="future-timeline">
 
   {% for item in events %}
-    {% capture posttime %}{{item.date | date: '%s'}}{% endcapture %}
-
-    {% if item.tag == 'arago' and posttime > now %}
+    {% capture posttime %}{{item.date | date: '%Y-%m-%d'}}{% endcapture %}
+    {% if item.tag == 'arago' and posttime >= now %}
       <li>
       <b>{{ item.date }}</b><br>
       {{ item.desc[lang] }}
@@ -79,9 +77,8 @@ lang: ca
 
 ### {{ data.events.title[lang] }} <a id={{data.events.anchor}} href="#top">⬆️</a>
 <ul class="timeline">
-  {% capture nowunix %}{{ 'now' | date: '%s'}}{% endcapture %}
   {% for item in events %}
-    {% capture posttime %}{{ item.date | date: '%s'}}{% endcapture %}
+    {% capture posttime %}{{item.date | date: '%Y-%m-%d'}}{% endcapture %}
     {% if item.tag == 'arago' and posttime < now %}
       <li>
       <b>{{ item.date }}</b><br>
