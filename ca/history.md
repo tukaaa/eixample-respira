@@ -28,7 +28,7 @@ lang: ca
 
 <ul class="timeline">
 {% for entry in site.data.history %}
-  {% capture posttime %}{{item.date | date: '%Y-%m-%d'}}{% endcapture %}
+  {% capture posttime %}{{entry.date | date: '%Y-%m-%d'}}{% endcapture %}
   {% if posttime < now %}
     <li>
     <b>{{ entry.date }}</b><br>
