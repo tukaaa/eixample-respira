@@ -186,6 +186,23 @@
     es: Presentamos la campaña <b>Aragó, Respira!</b>
     en: We present to the public the campaign <b>Aragó, Respira!</b>
 
+- date: 9/5/2023 
+  links:
+    - name:
+        ca: youtube del debat
+        es: youtube del debate
+        en: youtube of the debate
+      url: https://www.youtube.com/watch?v=L-hCLfdtYn8
+    - name:
+        ca: pàgina de les eleccions
+        es: página sobre las elecciones
+        en: the page on elections
+      url: https://www.eixamplerespira.com/ca/elections.html
+  desc: 
+    ca: Juntament amb altres entitats, abans de les eleccions municipals, organitzem un debat amb els candidates sobre mobilitat a Barcelona
+    es: Junto a otras entidades, antes de las elecciones municipales, organizamos un debate con los candidatos sobre movilidad en Barcelona
+    en: Together with more platforms, before the municipal elections, we organize a debate with the candidates about mobility in Barcelona
+
 - date: 29/3/2023
   links:
     - name:
