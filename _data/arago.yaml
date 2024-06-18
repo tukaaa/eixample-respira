@@ -3,7 +3,97 @@ next:
   title:
     es: Próximos eventos
     en: Upcoming events
-    ca: Propers events
+    ca: Propers esdeveniments
+
+what:
+  anchor: what
+  title:
+    es: ¿Que es <b><i>Aragó, Respira!</i></b>?
+    ca: Què és <b><i>Aragó, Respira!</i></b>?
+    en: What is <b><i>Aragó, Respira!</i></b>?
+  text:
+    es: | 
+      <p><b>Aragó, Respira!</b> es una iniciativa de Eixample Respira para sensibilizar a la ciudadanía sobre los <b>efectos adversos en la salud y la calidad de vida</b> provocados por la <b>coexistencia de viviendas con carriles de alta circulación en el centro de la ciudad</b>.</p>
+      <p>Las <b>autopistas urbanas</b> que cruzan el Eixample (Aragò, Gran Via, Urgell, Entença, Valencia, Paris, Aribau, Muntaner, Pau Claris, etc...) llenan la ciudad de humos y ruido, rompen el tejido social del barrio, y ocupan la mayor parte del espacio público.</p>
+      <p>Solicitamos a las administraciones que demuestren valentía para cambiar esta situación y que reorganicen el espacio público de manera más equitativa y beneficiosa para toda la ciutadanía.</p>
+    ca: |
+      <p><b>Aragó, Respira!</b> és una iniciativa d'Eixample Respira per sensibilitzar la ciutadania sobre els <b>efectes adversos en la salut i la qualitat de vida</b> provocats per la <b>coexistència d'habitatges amb carrils d'alta circulació al centre de la ciutat</b>.</p>
+      <p>Les <b>autopistes urbanes</b> que creuen l'Eixample (Aragó, Gran Via, Urgell, Entença, València, París, Aribau, Muntaner, Pau Claris, etc...) omplen la ciutat de fums i soroll, trenquen el teixit social del barri, i ocupen la major part de l'espai públic.</p>
+      <p>Sol·licitem a les administracions que demostrin valentia per canviar aquesta situació i que reorganitzin l'espai públic de manera més equitativa i beneficiosa per a tota la ciutadania.</p>
+    en: |
+      <p><b>Aragó, Respira!</b> is an initiative by Eixample Respira to raise awareness among citizens about the <b>adverse effects on health and quality of life</b> caused by the <b>coexistence of residential areas with high-traffic lanes in the city center</b>.</p>
+      <p>The <b>urban highways</b> that cross the Eixample (Aragó, Gran Via, Urgell, Entença, Valencia, Paris, Aribau, Muntaner, Pau Claris, etc...) fill the city with fumes and noise, break the social fabric of the neighborhood, and occupy most of the public space.</p>
+      <p>We ask the administrations to show courage to change this situation and to reorganize public space in a more equitable and beneficial way for all citizens.</p>
+
+info:
+  anchor: data
+  title: 
+    es: Datos sobre mobilidad y espacios verdes en el Eixample
+    ca: Dades sobre mobilitat i espais verds a l'Eixample
+    en: Data on mobility and green spaces in the Eixample district
+  text:
+    es: 
+      - El <b>85%</b> del ruido en la ciudad es provocado por el transito vehicular
+      - El <b>70%</b> del espacio público está dedicato a infrastructuras para el transporte privado (motos, coches y furgonetas), pero el transporte privado <i>solo mueve el 20% de la población</i>. El restante 80% se mueve a pié, en transporte público, bicicleta o otros medios no contaminantes
+      - En el Eixample, cada persona tiene <b>menos de 2mq de espacios verdes</b>, cuando las recomendaciones de la OMS son de un mínimo de 10mq
+      - Se calculan más de 1000 fallecimientos cada año a la ciudad de Barcelona por contaminación de aire, y más de 100 fallecimientos por ruido
+      - El transito en calle Aragò, una de las muchas <b>autopistas urbanas</b> del centro de la ciudad, es de 65.000 vehiculos diarios, similar a el de una autopista como la AP7
+      - "Más de 250.000 vehiculos atraviesan diariamente el Eixample. De todos estos, menos del 50% tiene origen o destino en el distrito: en otras palabras, <b>el Eixample es una zona de paso</b> para la mayoría de vehiculos"
+    ca: 
+      - El <b>85%</b> del soroll a la ciutat és provocat pel trànsit de vehicles
+      - El <b>70%</b> de l'espai públic està dedicat a infraestructures per al transport privat (motos, cotxes i furgonetes), però el transport privat <i>només mou el 20% de la població</i>. El restant 80% es mou a peu, en transport públic, bicicleta o altres mitjans no contaminants
+      - A l'Eixample, cada persona té <b>menys de 2 m² d'espais verds</b>, quan les recomanacions de l'OMS són d'un mínim de 10 m²
+      - Es calculen més de 1000 morts cada any a la ciutat de Barcelona per contaminació de l'aire, i més de 100 morts per soroll
+      - El trànsit al carrer Aragó, una de les moltes <b>autopistes urbanes</b> del centre de la ciutat, és de 65.000 vehicles diaris, similar al d'una autopista com l'AP7
+      - "Més de 250.000 vehicles travessen diàriament l'Eixample. De tots aquests, menys del 50% tenen origen o destinació al districte: en altres paraules, <b>l'Eixample és una zona de pas</b> per a la majoria de vehicles"
+    en:
+      - <b>85%</b> of the noise in the city is caused by vehicle traffic
+      - <b>70%</b> of public space is dedicated to infrastructure for private transport (motorcycles, cars, and vans), but private transport <i>only moves 20% of the population</i>. The remaining 80% move on foot, by public transport, bicycle, or other non-polluting means
+      - In the Eixample, each person has <b>less than 2 square meters of green spaces</b>, while the WHO recommendations are a minimum of 10 square meters
+      - More than 1000 deaths are estimated each year in the city of Barcelona due to air pollution, and more than 100 deaths due to noise
+      - Traffic on Aragó Street, one of the many <b>urban highways</b> in the city center, is 65,000 vehicles per day, similar to that of a highway like the AP7
+      - "More than 250,000 vehicles cross the Eixample daily. Of all these, less than 50% have origin or destination in the district: in other words, <b>the Eixample is a transit area</b> for most vehicles"
+
+help:
+  anchor: help
+  title: 
+    es: ¿Que puedo hacer? Como puedo ayudar? 
+    ca: Què puc fer? Com puc ajudar? 
+    en: How can I help?
+  text:
+    es: |
+      Si tu también piensas que ha llegado la hora de cambiar las autopistas urbanas y rediseñar el Eixample para las personas, puedes implicarte de muchas maneras: 
+      <ul>
+        <li>Entra en el <a href="https://chat.whatsapp.com/Dug2mwvW7AE80BePimS0CJ">grupo informativo de Whatsapp</a>, donde recibirás actualizaciones sobre asambleas o acciones futuras</li>
+        <li>Cuelga el cartel de la campaña en tu portal (los trobarás más abajo). No tienes impresora? Envíanos un correo electronico y te llevamos una copia!</li>
+        <li>Informa a tus vecinos sobre esta campaña</li>
+        <li>Si usas Twitter, enseña a todos que significa vivir en autopista urbana, usando el hashtag #AragoRespira</li>
+        <li>Participa a las asambleas periodicas</li>
+        <li>Participa a las acciones que convocaremos</li>
+        <li>Ayuda en la organización de eventos informativos</li>
+      </ul>
+    ca: |
+      Si tu també penses que ha arribat l'hora de canviar les autopistes urbanes i redissenyar l'Eixample per a les persones, pots implicar-te de moltes maneres:
+      <ul>
+        <li>Entra en el <a href="https://chat.whatsapp.com/Dug2mwvW7AE80BePimS0CJ">grup informatiu de Whatsapp</a>, on rebràs actualitzacions sobre assemblees o accions futures</li>
+        <li>Penja el cartell de la campanya al teu portal (els trobaràs més avall). No tens impressora? Envia'ns un correu electrònic i et portem una còpia!</li>
+        <li>Informa els teus veïns sobre aquesta campanya</li>
+        <li>Si fas servir Twitter, ensenya a tothom què significa viure en una autopista urbana, fent servir l'etiqueta #AragoRespira</li>
+        <li>Participa a les assemblees periòdiques</li>
+        <li>Participa a les accions que convocarem</li>
+        <li>Ajuda en l'organització d'esdeveniments informatius</li>
+      </ul>
+    en: |
+      If you also think that it's time to change the <i>urban highways</i> of Barcelona and redesign the Eixample for the people, you can get involved in many ways:
+      <ul>
+        <li>Join the Whatsapp information group, where you will receive updates on assemblies or future actions</li>
+        <li>Put up the campaign poster in your doorway (you can find them below). Don't have a printer? Send us an email, and we will bring you a copy!</li>
+        <li>Inform your neighbors about this campaign</li>
+        <li>If you use Twitter, show everyone what it means to live on an <i>urban highway</i>, using the hashtag #AragoRespira</li>
+        <li>Participate in the regular assemblies</li>
+        <li>Participate in the actions we will call for</li>
+        <li>Help organize informational events</li>
+      </ul>
 
 manifesto:
   anchor: manifesto
@@ -16,9 +106,9 @@ manifesto:
     es: Manifiesto
     en: Manifesto
   lemma:
-    ca: D'autopista a espai de vida
-    es: De autopista a espacio de vida
-    en: From highway to space full of life
+    ca: Manifest original de la campanya (2023)
+    es: Manifiesto original de la campaña (2023)
+    en: The original manifest of the campaign (2023)
   content:
     - p1:
       ca: "El carrer d’Aragó va experimentar <b>dues grans transformacions</b> durant els segles passats, dissenyades per adaptar-lo i donar resposta a les necessitats de la ciutat en cada moment. L’any 1882 es va inaugurar un projecte ambiciós amb el ferrocarril soterrat i ponts que unien els carrers perpendiculars. 80 anys després, en el 1962, s'inaugurava la segona versió, on es va cobrir la via del tren per facilitar-hi el trànsit rodat. El carrer d´Aragó s´adaptava als seus temps i obria el pas a un nou actor: el cotxe, el mitjà de transport creixent en aquell moment."
@@ -84,12 +174,12 @@ social:
       icon: /assets/images/icons/twitter.png
       desc: 
         ca: "Usa el hashtag <b>#AragoRespira</b> a las teves piulades, amb una foto o un video denunciant la situació d'Aragó"
-        es: "Usa el hashtag <b>#AragoRespira</b> en tus tuits, con una foto o un video denunciando la situación de Aragó"
+        es: "Usa el hashtag <b>#AragoRespira</b> en tus tuits, con una foto o un video denunciando la situación de tu autopista urbana"
         en: "Use the hashtag <b>#AragoRespira</b> in your tweets, with a photo of video showing the situation of Aragó" 
 
 events:
   anchor: events
   title: 
-    ca: Events
+    ca: Esdeveniments
     es: Eventos
     en: Events

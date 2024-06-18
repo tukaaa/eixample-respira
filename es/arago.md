@@ -38,15 +38,24 @@ lang: es
   {% endfor%}
 </ul>
 
-### {{ data.manifesto.lemma[lang] }} <a id={{data.manifesto.anchor}} href="#top">⬆️</a>
+### {{ data.what.title[lang] }} <a id={{data.what.anchor}} href="#top">⬆️</a>
 {{ data.content }}
-{% for entry in data.manifesto.content %}
-  <p>{{ entry[lang] }}</p>
+{{ data.what.text[lang] }}
+
+### {{ data.info.title[lang] }} <a id={{data.info.anchor}} href="#top">⬆️</a>
+{{ data.content }}
+<ul>
+{% for entry in data.info.text[lang] %}
+  <li>{{ entry }}</li>
 {% endfor %}
+</ul>
+
+### {{ data.help.title[lang] }} <a id={{data.help.anchor}} href="#top">⬆️</a>
+{{ data.content }}
+{{ data.help.text[lang] }}
 
 ### {{ data.signs.text[lang] }} <a id={{data.signs.anchor}} href="#top">⬆️</a>
 <p> {{data.signs.desc[lang]}} </p>
-
 <p style="text-align:center;">
 {% for asset in data.signs.assets %}
   <a class="flyer" href="{{ asset.pdf }}">
@@ -57,6 +66,12 @@ lang: es
   </a>
 {% endfor %}
 </p>
+
+### {{ data.manifesto.lemma[lang] }} <a id={{data.manifesto.anchor}} href="#top">⬆️</a>
+{{ data.content }}
+{% for entry in data.manifesto.content %}
+  <p>{{ entry[lang] }}</p>
+{% endfor %}
 
 ### {{ data.social.title[lang] }} <a id={{data.social.anchor}} href="#top">⬆️</a>
 <table id="arago">
