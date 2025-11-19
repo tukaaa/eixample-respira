@@ -1,3 +1,31 @@
+- date: 19/11/2025
+  tag: arago
+  desc: 
+    ca: Nota de premsa sobre la campanya "Aragó, Respira!" i la necessitat d'una reforma integral del carrer d'Aragó
+    es: Nota de prensa sobre la campaña "Aragó, Respira!" y la necesidad de una reforma integral de la calle de Aragó
+    en: Press release about the "Aragó, Respira!" campaign and the need for a comprehensive reform of Carrer d'Aragó
+  links:
+  - name:
+      ca: Tweet Original
+      es: Tweet Original
+      en: Original Tweet
+    url: https://x.com/eixrespira/status/1991073755875962942?s=20
+  - name:
+      ca: El Periódico
+      es: El Periódico
+      en: El Periódico
+    url: https://www.elperiodico.com/es/barcelona/eixample/20251119/eixample-respira-urge-reformar-calle-123887961
+  - name: 
+      ca: Linia Xarxa
+      es: Linia Xarxa
+      en: Linia Xarxa
+    url: https://liniaxarxa.cat/liniaeixample/noticies/eixample-respira-critica-llums-nadal-carrer-arago-inadequades-seguretat-vial/
+  - name: 
+      ca: El Nacional
+      es: El Nacional
+      en: El Nacional
+    url: https://www.elnacional.cat/ca/barcelona/llums-nadal-carrer-arago-reben-primeres-critiques_1515265_102.html
+
 - date: 19/06/2024
   tag: arago
   desc: 
