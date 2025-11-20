@@ -9,20 +9,34 @@ lang: es
 
 ## Próximos eventos
 
-<ul class="future-timeline">
-  {% for item in site.data.history %}
-    {% capture posttime %}{{item.date | date: '%Y-%m-%d'}}{% endcapture %}
-    {% if posttime >= now %}
-      <li>
-      <b>{{ item.date }}</b><br>
-      {{ item.desc[lang] }}
-      </li>
-      {% for link in item.links %}
-        🔗 <a href="{{ link.url }}" target="_blank">{{ link.name[lang] }}</a>
-      {% endfor %}
+  {% assign future_count = 0 %}
+  {% for item in events %}
+    {% capture posttime %}{{ item.date | date: '%Y-%m-%d' }}{% endcapture %}
+    {% if item.tag == 'arago' and posttime >= now %}
+      {% assign future_count = future_count | plus: 1 %}
     {% endif %}
-  {% endfor%}
-</ul>
+  {% endfor %}
+
+  {% if future_count > 0 %}
+  <ul class="future-timeline">
+    {% for item in events %}
+      {% capture posttime %}{{ item.date | date: '%Y-%m-%d' }}{% endcapture %}
+      {% if posttime >= now %}
+        <li>
+          <b>{{ item.date }}</b><br>
+          {{ item.desc[lang] }}
+        </li>
+        {% for link in item.links %}
+          🔗 <a href="{{ link.url }}" target="_blank">{{ link.name[lang] }}</a>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+  {% else %}
+  <ul>
+    <li>Ningún evento programado</li>
+  </ul>
+  {% endif %}
 
 ## Que hicimos hasta ahora? 
 

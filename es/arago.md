@@ -20,23 +20,31 @@ lang: es
 {% endfor %}
 </ul>
 
+  {% assign future_count = 0 %}
+  {% for item in events %}
+    {% capture posttime %}{{ item.date | date: '%Y-%m-%d' }}{% endcapture %}
+    {% if item.tag == 'arago' and posttime >= now %}
+      {% assign future_count = future_count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+  {% if future_count > 0 %}
 ### {{ data.next.title[lang] }} <a id={{data.next.anchor}} href="#top">⬆️</a>
 <ul class="future-timeline">
-
-  {% for item in events %}
-    {% capture posttime %}{{item.date | date: '%Y-%m-%d'}}{% endcapture %}
-
-    {% if item.tag == 'arago' and posttime >= now %}
-      <li>
-      <b>{{ item.date }}</b><br>
-      {{ item.desc[lang] }}
-      </li>
-      {% for link in item.links %}
-        🔗 <a href="{{ link.url }}" target="_blank">{{ link.name[lang] }}</a>
-      {% endfor %}
-    {% endif %}
-  {% endfor%}
+    {% for item in events %}
+      {% capture posttime %}{{ item.date | date: '%Y-%m-%d' }}{% endcapture %}
+      {% if item.tag == 'arago' and posttime >= now %}
+        <li>
+          <b>{{ item.date }}</b><br>
+          {{ item.desc[lang] }}
+        </li>
+        {% for link in item.links %}
+          🔗 <a href="{{ link.url }}" target="_blank">{{ link.name[lang] }}</a>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
 </ul>
+  {% endif %}
 
 ### {{ data.what.title[lang] }} <a id={{data.what.anchor}} href="#top">⬆️</a>
 {{ data.content }}

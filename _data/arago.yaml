@@ -1,9 +1,9 @@
-next:
-  anchor: next
-  title:
-    es: Actualidad
-    en: Latest and Upcoming Events
-    ca: Actualitat
+# next:
+#   anchor: next
+#   title:
+#     es: Actualidad
+#     en: Latest and Upcoming Events
+#     ca: Actualitat
 
 what:
   anchor: what
