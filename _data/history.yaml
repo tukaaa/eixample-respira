@@ -1,14 +1,19 @@
 - date: 19/11/2025
   tag: arago
   desc: 
-    ca: Nota de premsa sobre la campanya "Aragó, Respira!" i la necessitat d'una reforma integral del carrer d'Aragó
-    es: Nota de prensa sobre la campaña "Aragó, Respira!" y la necesidad de una reforma integral de la calle de Aragó
-    en: Press release about the "Aragó, Respira!" campaign and the need for a comprehensive reform of Carrer d'Aragó
+    ca: Eixample Respira reclama una transformació urgent del carrer d’Aragó abans del 2030
+    es: Eixample Respira reclama una transformación urgente de la calle de Aragó antes del 2030
+    en: Eixample Respira demands an urgent transformation of Carrer d'Aragó before 2030
   links:
   - name:
-      ca: Tweet Original
-      es: Tweet Original
-      en: Original Tweet
+      ca: Comunicat de premsa
+      es: Comunicado de prensa
+      en: Press release
+    url: assets/pdf/2025-11-19-ndp-arago-llums.pdf
+  - name:
+      ca: Tweet
+      es: Tweet
+      en: Tweet
     url: https://x.com/eixrespira/status/1991073755875962942?s=20
   - name:
       ca: El Periódico
@@ -25,6 +30,16 @@
       es: El Nacional
       en: El Nacional
     url: https://www.elnacional.cat/ca/barcelona/llums-nadal-carrer-arago-reben-primeres-critiques_1515265_102.html
+  - name:
+      ca: Ara.cat
+      es: Ara.cat
+      en: Ara.cat
+    url: https://www.ara.cat/societat/barcelona/eixample-respira-reclama-mesures-ambicioses-reduir-transit-carrer-arago_25_5567124.html
+  - name:
+      ca: Tot Barcelona
+      es: Tot Barcelona
+      en: Tot Barcelona
+    url: https://www.totbarcelona.cat/mobilitat/critiquen-nous-llums-nadal-carrer-arago-barcelona-672424/
 
 - date: 19/06/2024
   tag: arago
